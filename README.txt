@@ -33,10 +33,10 @@ This page is designed for deep-dive analysis.
 
 The dashboard is built on a data model consisting of four simulated tables:
 
-1.  **influencers**: Contains details about each influencer (ID, name, category, gender, follower count, platform).
-2.  **posts**: Contains data on individual posts made by influencers (reach, likes, comments).
-3.  **tracking_data**: Contains transaction-level data linking campaigns to user actions (orders, revenue).
-4.  **payouts**: Contains the financial data related to influencer payments.
+1.  **`influencers`**: Contains details about each influencer (ID, name, category, gender, follower count, platform).
+2.  **`posts`**: Contains data on individual posts made by influencers (reach, likes, comments).
+3.  **`tracking_data`**: Contains transaction-level data linking campaigns to user actions (orders, revenue).
+4.  **`payouts`**: Contains the financial data related to influencer payments.
 
 ---
 
