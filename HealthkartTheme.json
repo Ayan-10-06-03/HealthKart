@@ -1,0 +1,59 @@
+{
+    "name": "HealthKart Theme",
+    "dataColors": [
+        "#20B2AA",
+        "#1A918B",
+        "#B2E5E2",
+        "#202020",
+        "#D3D3D3"
+    ],
+    "background": "#F8F9FA",
+    "foreground": "#202020",
+    "tableAccent": "#20B2AA",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "color": { "solid": { "color": "#FFFFFF" } },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "color": { "solid": { "color": "#D3D3D3" } },
+                        "show": true
+                    }
+                ],
+                "title": [
+                    {
+                        "fontColor": { "solid": { "color": "#202020" } }
+                    }
+                ]
+            }
+        },
+        "labels": {
+            "*": {
+                "color": [
+                    {
+                        "color": { "solid": { "color": "#202020" } }
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "categoryLabels": [
+                    {
+                        "color": { "solid": { "color": "#202020" } }
+                    }
+                ],
+                "dataLabels": [
+                    {
+                        "color": { "solid": { "color": "#1A918B" } }
+                    }
+                ]
+            }
+        }
+    }
+}

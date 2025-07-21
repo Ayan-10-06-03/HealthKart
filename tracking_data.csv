@@ -1,0 +1,2001 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Instagram,Campaign_9,15,user_1368,Omega-3,17-06-2025,3,371.81
+Instagram,Campaign_4,57,user_241,Omega-3,01-04-2025,3,271.45
+YouTube,Campaign_9,54,user_4724,Protein Powder,14-03-2025,4,265.18
+Twitter,Campaign_2,37,user_4093,Multivitamin,16-04-2025,2,142.46
+Instagram,Campaign_4,76,user_4702,Protein Powder,22-05-2025,5,21.23
+Instagram,Campaign_1,35,user_2004,Protein Powder,21-03-2025,3,203.83
+YouTube,Campaign_5,95,user_1467,Protein Powder,28-02-2025,4,127.77
+Twitter,Campaign_8,67,user_3410,Omega-3,11-05-2025,1,294.34
+Instagram,Campaign_4,59,user_4113,Protein Powder,04-06-2025,2,406.08
+YouTube,Campaign_2,27,user_3285,Protein Powder,22-03-2025,3,391.29
+YouTube,Campaign_10,75,user_2682,Protein Powder,28-02-2025,4,23.83
+Twitter,Campaign_7,18,user_2389,Omega-3,10-02-2025,2,242.68
+Instagram,Campaign_19,100,user_4042,Multivitamin,02-03-2025,2,92.27
+Instagram,Campaign_14,88,user_196,Multivitamin,03-03-2025,3,325.25
+Twitter,Campaign_1,41,user_2745,Protein Powder,01-02-2025,4,427.52
+YouTube,Campaign_10,93,user_852,Multivitamin,06-03-2025,2,221.51
+Twitter,Campaign_2,11,user_1167,Omega-3,26-06-2025,1,462.21
+Twitter,Campaign_17,2,user_3384,Omega-3,24-03-2025,1,298.77
+Instagram,Campaign_17,40,user_1094,Kids Shake,30-06-2025,5,292.55
+YouTube,Campaign_14,44,user_1071,Multivitamin,06-05-2025,3,428.44
+YouTube,Campaign_13,39,user_2673,Omega-3,26-03-2025,3,132.13
+Twitter,Campaign_7,6,user_1116,Protein Powder,10-06-2025,1,98.9
+Instagram,Campaign_15,100,user_2573,Kids Shake,19-06-2025,5,191.98
+Twitter,Campaign_7,79,user_3703,Omega-3,23-03-2025,3,429.19
+YouTube,Campaign_3,27,user_1292,Omega-3,22-01-2025,5,39.36
+YouTube,Campaign_11,71,user_1216,Protein Powder,17-05-2025,3,210.2
+Instagram,Campaign_2,28,user_2449,Omega-3,05-06-2025,1,477.01
+Instagram,Campaign_15,34,user_4555,Multivitamin,25-06-2025,4,68.92
+Twitter,Campaign_5,64,user_995,Protein Powder,04-07-2025,2,82.74
+Twitter,Campaign_13,22,user_3050,Protein Powder,20-02-2025,5,144.23
+YouTube,Campaign_3,20,user_179,Protein Powder,30-05-2025,4,408.46
+YouTube,Campaign_3,78,user_2717,Protein Powder,09-07-2025,4,44.31
+YouTube,Campaign_19,12,user_3549,Kids Shake,14-03-2025,1,203.71
+Instagram,Campaign_14,50,user_1416,Omega-3,26-05-2025,2,151.99
+Instagram,Campaign_15,91,user_1218,Protein Powder,12-02-2025,5,316.15
+Instagram,Campaign_10,13,user_4087,Kids Shake,01-03-2025,4,49.27
+Instagram,Campaign_9,99,user_3138,Multivitamin,03-04-2025,2,328.47
+YouTube,Campaign_17,4,user_2042,Protein Powder,13-04-2025,3,250.25
+Twitter,Campaign_16,1,user_2819,Omega-3,11-04-2025,3,106.31
+YouTube,Campaign_11,27,user_4892,Multivitamin,12-07-2025,3,48.12
+YouTube,Campaign_16,61,user_4338,Omega-3,20-02-2025,2,487.51
+Instagram,Campaign_4,66,user_2031,Multivitamin,12-05-2025,5,411.82
+YouTube,Campaign_2,72,user_1798,Kids Shake,20-04-2025,2,104.53
+YouTube,Campaign_19,46,user_2606,Omega-3,18-02-2025,1,357.66
+Twitter,Campaign_12,38,user_4651,Multivitamin,25-02-2025,2,421.61
+YouTube,Campaign_16,61,user_4442,Omega-3,05-06-2025,4,38.22
+Twitter,Campaign_2,41,user_1906,Multivitamin,14-07-2025,5,249.43
+Twitter,Campaign_11,1,user_1651,Multivitamin,23-04-2025,2,461.01
+YouTube,Campaign_11,95,user_488,Protein Powder,12-06-2025,5,358.25
+Twitter,Campaign_5,63,user_909,Omega-3,01-07-2025,3,358.18
+YouTube,Campaign_13,24,user_4801,Protein Powder,24-04-2025,3,174.85
+Twitter,Campaign_6,90,user_3579,Kids Shake,03-02-2025,3,103.62
+YouTube,Campaign_18,81,user_2924,Multivitamin,30-01-2025,5,410.94
+Twitter,Campaign_13,18,user_2514,Omega-3,17-06-2025,2,369.84
+YouTube,Campaign_19,39,user_3208,Protein Powder,03-06-2025,5,172.74
+YouTube,Campaign_20,74,user_1810,Protein Powder,14-03-2025,2,178.96
+Instagram,Campaign_3,82,user_1950,Omega-3,29-04-2025,2,325.37
+Twitter,Campaign_3,63,user_2751,Kids Shake,17-07-2025,3,120.65
+YouTube,Campaign_3,93,user_2872,Omega-3,22-06-2025,1,43.11
+Twitter,Campaign_15,89,user_3438,Multivitamin,05-04-2025,4,443.25
+Instagram,Campaign_12,86,user_4474,Kids Shake,24-06-2025,4,398.59
+Instagram,Campaign_19,57,user_1848,Multivitamin,26-03-2025,1,403.61
+YouTube,Campaign_2,83,user_2416,Protein Powder,29-04-2025,3,476.8
+YouTube,Campaign_3,69,user_2801,Multivitamin,14-04-2025,2,371.35
+Twitter,Campaign_18,7,user_763,Omega-3,17-02-2025,5,448.75
+YouTube,Campaign_1,61,user_3534,Multivitamin,14-02-2025,4,95.41
+Instagram,Campaign_4,87,user_2713,Multivitamin,01-06-2025,4,354.65
+YouTube,Campaign_18,74,user_2174,Omega-3,04-05-2025,2,66.04
+Twitter,Campaign_13,14,user_4684,Kids Shake,10-06-2025,1,193.2
+YouTube,Campaign_14,4,user_718,Omega-3,31-01-2025,5,250.56
+Twitter,Campaign_4,45,user_211,Multivitamin,06-06-2025,3,488.99
+Instagram,Campaign_16,15,user_947,Omega-3,09-04-2025,4,254.77
+Twitter,Campaign_9,70,user_747,Kids Shake,02-06-2025,3,445.04
+Twitter,Campaign_12,79,user_1529,Kids Shake,08-07-2025,3,231.08
+Instagram,Campaign_9,49,user_1854,Omega-3,25-02-2025,1,92.54
+Twitter,Campaign_4,33,user_703,Omega-3,03-03-2025,4,485.94
+YouTube,Campaign_19,55,user_1864,Protein Powder,11-04-2025,5,220.94
+Twitter,Campaign_18,48,user_3890,Multivitamin,20-03-2025,3,57.9
+Twitter,Campaign_2,63,user_4114,Multivitamin,19-06-2025,4,102.98
+Twitter,Campaign_6,8,user_1736,Multivitamin,17-06-2025,1,223.22
+Twitter,Campaign_14,3,user_1655,Multivitamin,17-02-2025,3,173.48
+YouTube,Campaign_3,44,user_713,Kids Shake,27-02-2025,4,284.99
+Instagram,Campaign_9,16,user_4258,Kids Shake,16-07-2025,5,302.04
+Instagram,Campaign_14,96,user_922,Kids Shake,11-06-2025,2,291.97
+Instagram,Campaign_19,99,user_821,Protein Powder,25-02-2025,1,397.16
+Twitter,Campaign_18,14,user_2817,Kids Shake,13-05-2025,4,334.3
+Twitter,Campaign_19,37,user_4989,Kids Shake,10-07-2025,2,152.2
+YouTube,Campaign_5,46,user_4987,Kids Shake,10-07-2025,4,447
+Twitter,Campaign_11,48,user_1947,Protein Powder,20-03-2025,3,450.58
+Twitter,Campaign_1,85,user_2768,Omega-3,01-05-2025,3,424.57
+Instagram,Campaign_4,66,user_1868,Multivitamin,04-05-2025,4,391.53
+Twitter,Campaign_11,14,user_2208,Kids Shake,15-02-2025,1,110.21
+Instagram,Campaign_7,60,user_3336,Kids Shake,09-03-2025,3,414.09
+YouTube,Campaign_17,95,user_1303,Protein Powder,01-05-2025,5,213.62
+Twitter,Campaign_17,14,user_4659,Protein Powder,05-06-2025,2,440.09
+YouTube,Campaign_7,97,user_473,Multivitamin,11-07-2025,4,44.27
+Twitter,Campaign_12,14,user_1632,Omega-3,16-04-2025,4,262.46
+Twitter,Campaign_4,68,user_251,Multivitamin,15-04-2025,4,305.14
+Twitter,Campaign_6,3,user_3888,Omega-3,22-04-2025,2,422.07
+Twitter,Campaign_9,8,user_741,Omega-3,12-07-2025,4,43.83
+YouTube,Campaign_19,43,user_1756,Multivitamin,04-02-2025,2,345.29
+YouTube,Campaign_9,20,user_3355,Protein Powder,26-01-2025,1,247.57
+Twitter,Campaign_5,33,user_1419,Protein Powder,23-05-2025,3,312.01
+YouTube,Campaign_10,95,user_2256,Kids Shake,14-04-2025,3,240.32
+Instagram,Campaign_7,58,user_3824,Omega-3,27-01-2025,5,415.67
+Twitter,Campaign_13,38,user_4789,Protein Powder,18-07-2025,5,499.73
+YouTube,Campaign_12,4,user_4600,Omega-3,04-05-2025,1,251.23
+Instagram,Campaign_11,59,user_2265,Omega-3,10-05-2025,3,334.94
+YouTube,Campaign_10,39,user_1544,Multivitamin,09-03-2025,2,451.85
+Instagram,Campaign_20,58,user_3311,Omega-3,26-01-2025,2,366.22
+YouTube,Campaign_16,20,user_2422,Omega-3,03-04-2025,4,206.37
+Instagram,Campaign_2,92,user_4777,Multivitamin,23-04-2025,2,349.43
+Twitter,Campaign_16,22,user_2937,Omega-3,06-06-2025,5,106.95
+YouTube,Campaign_4,46,user_3857,Multivitamin,14-05-2025,5,386.2
+Instagram,Campaign_6,42,user_2750,Protein Powder,24-05-2025,3,127.2
+Instagram,Campaign_10,57,user_3445,Omega-3,15-04-2025,3,301.07
+Instagram,Campaign_15,96,user_965,Kids Shake,06-07-2025,5,298.55
+Instagram,Campaign_20,35,user_584,Kids Shake,31-05-2025,5,77.51
+Twitter,Campaign_13,22,user_4341,Omega-3,05-04-2025,1,438.01
+Instagram,Campaign_5,49,user_1126,Multivitamin,23-04-2025,4,493.85
+Instagram,Campaign_15,87,user_1174,Omega-3,03-06-2025,1,254.04
+Instagram,Campaign_6,35,user_2568,Protein Powder,18-07-2025,4,151.29
+Twitter,Campaign_6,45,user_4721,Multivitamin,16-03-2025,1,82.11
+YouTube,Campaign_14,73,user_3518,Kids Shake,01-04-2025,4,203.99
+Twitter,Campaign_2,32,user_4373,Multivitamin,15-04-2025,1,448.16
+Twitter,Campaign_17,45,user_1562,Protein Powder,27-01-2025,1,320.81
+Twitter,Campaign_8,23,user_1854,Omega-3,01-05-2025,2,69.3
+Twitter,Campaign_17,67,user_4823,Omega-3,07-06-2025,1,415.45
+YouTube,Campaign_10,74,user_2383,Kids Shake,08-03-2025,5,271.58
+Instagram,Campaign_14,59,user_1097,Omega-3,16-03-2025,3,380.06
+Instagram,Campaign_6,59,user_3305,Protein Powder,22-05-2025,2,369.04
+YouTube,Campaign_5,71,user_1731,Protein Powder,19-02-2025,5,101.11
+Instagram,Campaign_12,76,user_307,Kids Shake,06-02-2025,3,390.2
+YouTube,Campaign_20,97,user_399,Protein Powder,31-01-2025,1,333.71
+Twitter,Campaign_1,68,user_396,Protein Powder,04-04-2025,4,202.52
+Instagram,Campaign_18,35,user_2071,Kids Shake,21-01-2025,2,118.64
+Twitter,Campaign_1,18,user_2467,Kids Shake,31-01-2025,1,337.99
+YouTube,Campaign_9,21,user_4962,Multivitamin,03-04-2025,1,265.56
+YouTube,Campaign_20,4,user_965,Omega-3,20-06-2025,1,258.91
+YouTube,Campaign_20,39,user_1637,Omega-3,08-03-2025,2,191.8
+Instagram,Campaign_14,96,user_2420,Multivitamin,09-07-2025,5,258.25
+YouTube,Campaign_7,27,user_3938,Omega-3,20-05-2025,1,26.12
+Twitter,Campaign_3,67,user_905,Kids Shake,11-06-2025,1,394.17
+YouTube,Campaign_3,44,user_830,Omega-3,05-02-2025,2,239.24
+Instagram,Campaign_10,16,user_2164,Kids Shake,07-07-2025,1,410.33
+Twitter,Campaign_2,11,user_2381,Omega-3,27-01-2025,3,224.48
+Instagram,Campaign_4,40,user_779,Protein Powder,17-07-2025,2,338.41
+Twitter,Campaign_6,33,user_2693,Omega-3,29-03-2025,5,148.79
+YouTube,Campaign_3,95,user_3053,Omega-3,03-06-2025,1,212.37
+Instagram,Campaign_15,60,user_2227,Kids Shake,24-01-2025,4,403.95
+YouTube,Campaign_6,72,user_927,Multivitamin,22-01-2025,1,491.15
+Twitter,Campaign_6,90,user_850,Kids Shake,18-02-2025,4,405.09
+Instagram,Campaign_15,62,user_1485,Kids Shake,19-04-2025,5,33.83
+Twitter,Campaign_5,64,user_3958,Kids Shake,21-06-2025,4,231.53
+Instagram,Campaign_3,57,user_2144,Omega-3,16-07-2025,5,388.41
+Instagram,Campaign_19,31,user_4629,Multivitamin,29-01-2025,3,269.17
+Instagram,Campaign_20,59,user_781,Kids Shake,31-01-2025,2,251.33
+Instagram,Campaign_13,31,user_1218,Protein Powder,17-07-2025,2,262.67
+Instagram,Campaign_16,25,user_4062,Multivitamin,30-06-2025,4,173.9
+Instagram,Campaign_11,59,user_2279,Protein Powder,12-03-2025,2,284.24
+YouTube,Campaign_13,20,user_3304,Multivitamin,29-06-2025,4,233.21
+YouTube,Campaign_19,17,user_3671,Protein Powder,14-03-2025,4,171.71
+Instagram,Campaign_16,15,user_146,Protein Powder,07-04-2025,4,37.2
+Twitter,Campaign_18,90,user_2,Protein Powder,15-02-2025,5,326.02
+Twitter,Campaign_17,56,user_4607,Multivitamin,02-02-2025,4,476.17
+Twitter,Campaign_12,80,user_445,Multivitamin,25-03-2025,3,288.87
+YouTube,Campaign_20,24,user_4915,Kids Shake,01-02-2025,3,363.64
+Twitter,Campaign_4,7,user_799,Multivitamin,19-07-2025,3,190.47
+Instagram,Campaign_10,9,user_4487,Omega-3,21-01-2025,1,41.97
+Instagram,Campaign_6,40,user_4034,Multivitamin,06-04-2025,1,142.06
+Twitter,Campaign_7,33,user_1537,Protein Powder,10-04-2025,2,239.38
+Instagram,Campaign_7,91,user_2769,Protein Powder,04-04-2025,1,464.78
+Twitter,Campaign_19,79,user_1010,Kids Shake,24-03-2025,5,478.97
+Twitter,Campaign_5,23,user_4087,Protein Powder,06-03-2025,1,285.55
+Instagram,Campaign_14,34,user_4794,Kids Shake,11-03-2025,2,352.07
+Instagram,Campaign_6,84,user_1052,Protein Powder,11-04-2025,5,310.96
+Instagram,Campaign_11,34,user_4130,Kids Shake,03-04-2025,5,459.64
+Twitter,Campaign_8,90,user_2242,Kids Shake,23-04-2025,3,237.37
+Twitter,Campaign_5,32,user_1132,Kids Shake,15-02-2025,5,163.48
+YouTube,Campaign_18,73,user_2572,Multivitamin,29-05-2025,2,319.6
+YouTube,Campaign_10,78,user_2829,Multivitamin,03-02-2025,2,261.87
+YouTube,Campaign_11,93,user_946,Omega-3,26-02-2025,4,299.75
+Instagram,Campaign_14,92,user_4374,Omega-3,02-04-2025,1,270.91
+Twitter,Campaign_1,38,user_3121,Multivitamin,06-07-2025,1,115.95
+YouTube,Campaign_6,46,user_2348,Omega-3,12-06-2025,1,351.49
+Instagram,Campaign_10,15,user_1672,Protein Powder,19-04-2025,4,69.19
+YouTube,Campaign_18,53,user_1838,Kids Shake,20-05-2025,5,396.47
+YouTube,Campaign_10,81,user_385,Kids Shake,11-04-2025,4,479.22
+YouTube,Campaign_11,93,user_4524,Protein Powder,16-07-2025,3,117.48
+Instagram,Campaign_15,28,user_1848,Omega-3,19-02-2025,5,374.46
+Twitter,Campaign_7,32,user_1586,Omega-3,27-03-2025,2,492.06
+Instagram,Campaign_3,94,user_1532,Multivitamin,10-03-2025,1,201.06
+YouTube,Campaign_14,51,user_2287,Omega-3,16-06-2025,2,300.31
+YouTube,Campaign_9,53,user_47,Omega-3,22-03-2025,2,39.17
+Twitter,Campaign_11,67,user_4890,Protein Powder,09-02-2025,5,424.71
+Twitter,Campaign_10,77,user_4019,Omega-3,01-07-2025,3,272.19
+Instagram,Campaign_6,99,user_4265,Protein Powder,12-03-2025,2,219.65
+Twitter,Campaign_18,41,user_3305,Protein Powder,21-04-2025,2,444.03
+Twitter,Campaign_11,56,user_2713,Omega-3,05-05-2025,2,476.15
+Instagram,Campaign_20,31,user_4346,Kids Shake,26-02-2025,1,75.07
+Twitter,Campaign_12,2,user_3651,Multivitamin,05-02-2025,5,460.93
+YouTube,Campaign_8,12,user_327,Omega-3,13-04-2025,1,205.22
+Twitter,Campaign_18,41,user_2317,Protein Powder,09-03-2025,3,266.87
+Instagram,Campaign_17,91,user_3651,Kids Shake,08-07-2025,3,451.18
+Instagram,Campaign_7,59,user_2625,Protein Powder,25-06-2025,2,486.38
+Instagram,Campaign_18,58,user_4369,Protein Powder,09-02-2025,1,121.18
+Twitter,Campaign_7,77,user_3476,Protein Powder,28-05-2025,5,417.8
+YouTube,Campaign_14,73,user_591,Multivitamin,13-07-2025,4,364.1
+YouTube,Campaign_2,43,user_717,Protein Powder,06-07-2025,2,401.22
+Twitter,Campaign_18,19,user_578,Multivitamin,14-05-2025,4,206.26
+Twitter,Campaign_13,19,user_3548,Omega-3,15-07-2025,4,343.18
+Twitter,Campaign_18,11,user_49,Protein Powder,20-02-2025,1,356.42
+Twitter,Campaign_3,68,user_2931,Protein Powder,06-05-2025,3,311.15
+Instagram,Campaign_10,25,user_3586,Kids Shake,09-04-2025,1,247.51
+Twitter,Campaign_18,22,user_1802,Multivitamin,10-04-2025,5,161.59
+Twitter,Campaign_5,45,user_2442,Omega-3,17-07-2025,5,439.89
+Twitter,Campaign_5,89,user_1010,Protein Powder,18-07-2025,5,306.39
+Instagram,Campaign_18,13,user_4486,Protein Powder,02-05-2025,2,379.18
+Twitter,Campaign_12,5,user_1735,Kids Shake,04-02-2025,5,88.38
+Twitter,Campaign_6,85,user_1809,Omega-3,31-05-2025,1,107.05
+YouTube,Campaign_19,95,user_446,Kids Shake,04-02-2025,5,55.11
+Twitter,Campaign_3,1,user_2054,Protein Powder,30-05-2025,5,253.85
+Instagram,Campaign_11,92,user_2926,Multivitamin,29-01-2025,2,68.02
+Twitter,Campaign_20,41,user_572,Multivitamin,29-04-2025,4,236.31
+Twitter,Campaign_20,5,user_2505,Multivitamin,25-02-2025,5,194.96
+Twitter,Campaign_11,56,user_3509,Multivitamin,18-07-2025,3,138.16
+Twitter,Campaign_8,45,user_3573,Omega-3,18-04-2025,2,346.2
+YouTube,Campaign_11,20,user_3932,Kids Shake,27-03-2025,3,391.89
+YouTube,Campaign_16,95,user_4520,Protein Powder,05-06-2025,5,59.35
+Twitter,Campaign_9,56,user_1147,Multivitamin,13-05-2025,1,369.16
+YouTube,Campaign_1,46,user_4155,Protein Powder,21-02-2025,5,214.46
+Twitter,Campaign_19,41,user_1743,Protein Powder,28-02-2025,3,280.87
+YouTube,Campaign_18,93,user_3868,Multivitamin,17-04-2025,4,127.19
+Instagram,Campaign_19,66,user_2384,Multivitamin,23-03-2025,5,265
+Twitter,Campaign_13,6,user_2981,Protein Powder,31-01-2025,2,427.03
+YouTube,Campaign_20,75,user_1359,Multivitamin,27-03-2025,2,105.99
+YouTube,Campaign_19,43,user_1198,Kids Shake,19-04-2025,1,125.03
+YouTube,Campaign_16,61,user_1899,Protein Powder,13-05-2025,3,132.33
+Instagram,Campaign_7,42,user_4243,Omega-3,11-04-2025,4,460.59
+Twitter,Campaign_2,70,user_327,Omega-3,23-06-2025,5,324.11
+YouTube,Campaign_9,51,user_2158,Multivitamin,14-04-2025,4,195.34
+YouTube,Campaign_3,17,user_4233,Omega-3,14-04-2025,2,267.86
+Twitter,Campaign_12,3,user_2827,Kids Shake,18-03-2025,5,23.17
+Instagram,Campaign_5,96,user_3604,Multivitamin,22-05-2025,1,266.98
+Twitter,Campaign_9,68,user_1733,Multivitamin,02-06-2025,2,193.87
+Twitter,Campaign_4,23,user_1887,Kids Shake,26-04-2025,1,251.13
+Instagram,Campaign_16,28,user_3925,Multivitamin,18-02-2025,2,330.68
+Instagram,Campaign_14,58,user_184,Multivitamin,08-07-2025,2,295.27
+Twitter,Campaign_6,36,user_1104,Protein Powder,23-02-2025,2,46.84
+Twitter,Campaign_9,70,user_1475,Kids Shake,16-02-2025,5,326.06
+Instagram,Campaign_10,9,user_703,Multivitamin,27-03-2025,5,496.53
+Instagram,Campaign_16,16,user_1398,Multivitamin,05-04-2025,5,88.5
+Instagram,Campaign_19,88,user_1490,Omega-3,07-06-2025,3,462.73
+YouTube,Campaign_20,75,user_4839,Protein Powder,22-05-2025,4,205.02
+Twitter,Campaign_4,79,user_136,Multivitamin,08-03-2025,5,348.5
+YouTube,Campaign_5,97,user_4961,Protein Powder,04-06-2025,4,452.77
+YouTube,Campaign_20,46,user_320,Protein Powder,26-06-2025,4,336.51
+YouTube,Campaign_20,52,user_4418,Protein Powder,27-01-2025,4,270.58
+YouTube,Campaign_12,21,user_356,Kids Shake,22-05-2025,4,398.99
+YouTube,Campaign_13,78,user_2872,Protein Powder,02-04-2025,2,142.17
+Instagram,Campaign_8,42,user_687,Omega-3,16-02-2025,5,216.15
+Instagram,Campaign_7,40,user_45,Protein Powder,22-02-2025,5,76.56
+Twitter,Campaign_1,98,user_3073,Multivitamin,24-01-2025,3,216.25
+Instagram,Campaign_4,35,user_1268,Kids Shake,03-02-2025,5,141.74
+Twitter,Campaign_18,48,user_3470,Omega-3,13-02-2025,3,496.06
+Instagram,Campaign_13,86,user_1669,Kids Shake,28-02-2025,5,251.58
+Instagram,Campaign_12,40,user_4581,Kids Shake,16-05-2025,3,297.27
+Twitter,Campaign_13,8,user_1132,Protein Powder,22-05-2025,4,395.89
+Twitter,Campaign_6,67,user_822,Multivitamin,11-03-2025,4,397.32
+Twitter,Campaign_18,38,user_427,Multivitamin,11-04-2025,1,406.1
+YouTube,Campaign_5,20,user_3864,Kids Shake,27-06-2025,1,146.28
+YouTube,Campaign_12,54,user_656,Protein Powder,12-04-2025,4,314.7
+Instagram,Campaign_17,28,user_2347,Protein Powder,05-06-2025,4,230.71
+YouTube,Campaign_7,61,user_4245,Omega-3,31-05-2025,1,396.3
+Instagram,Campaign_17,60,user_4226,Multivitamin,12-02-2025,2,343.53
+YouTube,Campaign_12,71,user_1960,Protein Powder,09-06-2025,1,498.47
+Twitter,Campaign_13,41,user_2893,Kids Shake,07-04-2025,5,116.15
+Instagram,Campaign_1,88,user_563,Protein Powder,01-03-2025,3,368.55
+YouTube,Campaign_18,17,user_4776,Omega-3,22-04-2025,3,128.62
+Instagram,Campaign_7,57,user_3726,Kids Shake,22-02-2025,1,145.33
+YouTube,Campaign_14,24,user_4148,Protein Powder,26-02-2025,1,261.52
+Instagram,Campaign_11,15,user_959,Omega-3,04-03-2025,5,140.07
+Instagram,Campaign_15,13,user_3090,Kids Shake,18-05-2025,3,481.39
+Instagram,Campaign_15,26,user_3775,Protein Powder,18-03-2025,1,143.75
+Instagram,Campaign_13,9,user_1806,Multivitamin,30-04-2025,4,478.61
+Twitter,Campaign_17,70,user_4389,Protein Powder,21-01-2025,3,139.16
+YouTube,Campaign_3,95,user_3269,Omega-3,30-06-2025,5,467.07
+Instagram,Campaign_16,35,user_2572,Omega-3,25-05-2025,5,149.16
+Instagram,Campaign_7,96,user_4088,Multivitamin,20-05-2025,2,438.92
+Instagram,Campaign_7,28,user_1878,Multivitamin,17-05-2025,5,190.89
+YouTube,Campaign_4,55,user_983,Protein Powder,27-01-2025,4,314.64
+Twitter,Campaign_18,63,user_347,Kids Shake,15-04-2025,5,171.4
+Twitter,Campaign_19,14,user_2251,Kids Shake,03-06-2025,5,154.53
+Instagram,Campaign_8,49,user_4725,Multivitamin,06-07-2025,5,403.65
+Twitter,Campaign_16,56,user_4430,Protein Powder,13-03-2025,3,208.98
+YouTube,Campaign_6,69,user_3746,Protein Powder,22-01-2025,5,240.83
+Instagram,Campaign_1,50,user_97,Multivitamin,13-04-2025,5,68.36
+YouTube,Campaign_12,55,user_2128,Multivitamin,01-03-2025,3,133.83
+Instagram,Campaign_16,91,user_2811,Omega-3,02-06-2025,4,223.49
+YouTube,Campaign_14,46,user_3050,Omega-3,08-04-2025,3,236.35
+Instagram,Campaign_19,10,user_1075,Multivitamin,24-06-2025,3,405.96
+YouTube,Campaign_18,69,user_3541,Kids Shake,30-05-2025,2,404.02
+Instagram,Campaign_5,26,user_3875,Protein Powder,04-06-2025,4,259.81
+Instagram,Campaign_17,25,user_4375,Omega-3,17-03-2025,3,140.47
+Twitter,Campaign_19,7,user_391,Kids Shake,24-06-2025,2,48.82
+YouTube,Campaign_9,21,user_3904,Protein Powder,26-03-2025,3,144.69
+Twitter,Campaign_12,38,user_4591,Omega-3,22-04-2025,1,217.65
+YouTube,Campaign_12,29,user_4961,Multivitamin,22-02-2025,5,331.94
+Instagram,Campaign_18,84,user_1430,Omega-3,20-04-2025,3,343.13
+Instagram,Campaign_16,30,user_3662,Protein Powder,13-04-2025,5,157.53
+Instagram,Campaign_5,82,user_1373,Omega-3,03-04-2025,5,294.39
+Twitter,Campaign_3,18,user_649,Multivitamin,23-04-2025,2,170.47
+Twitter,Campaign_10,77,user_2192,Kids Shake,11-05-2025,4,394.87
+YouTube,Campaign_12,72,user_4809,Kids Shake,05-04-2025,2,108.27
+Twitter,Campaign_1,1,user_1025,Multivitamin,31-01-2025,3,471.41
+YouTube,Campaign_3,53,user_1726,Multivitamin,09-04-2025,1,65.87
+YouTube,Campaign_16,17,user_4493,Protein Powder,13-07-2025,4,271.51
+YouTube,Campaign_3,53,user_852,Omega-3,11-02-2025,2,60.47
+YouTube,Campaign_13,72,user_2535,Multivitamin,17-05-2025,3,232.72
+Twitter,Campaign_5,85,user_1076,Multivitamin,12-07-2025,1,338.5
+Instagram,Campaign_11,60,user_3901,Kids Shake,03-03-2025,3,283.3
+Instagram,Campaign_5,16,user_4418,Multivitamin,18-02-2025,5,239.14
+Instagram,Campaign_19,16,user_3564,Omega-3,22-04-2025,4,279.04
+Twitter,Campaign_3,68,user_3620,Omega-3,17-04-2025,4,144.71
+Instagram,Campaign_10,91,user_87,Protein Powder,08-03-2025,2,185.06
+Twitter,Campaign_16,56,user_4384,Protein Powder,24-01-2025,4,474.54
+YouTube,Campaign_16,53,user_2455,Protein Powder,31-03-2025,3,306.56
+Twitter,Campaign_1,77,user_4491,Omega-3,01-06-2025,4,443.44
+Twitter,Campaign_14,41,user_3234,Multivitamin,08-06-2025,4,417.64
+Twitter,Campaign_8,48,user_2155,Protein Powder,02-04-2025,2,267.97
+YouTube,Campaign_20,12,user_2228,Omega-3,03-02-2025,5,408.23
+YouTube,Campaign_14,83,user_1541,Protein Powder,03-06-2025,2,159.01
+Instagram,Campaign_15,40,user_3710,Omega-3,21-01-2025,5,256.16
+Twitter,Campaign_11,32,user_159,Multivitamin,07-07-2025,5,30.62
+Twitter,Campaign_4,32,user_2312,Omega-3,17-06-2025,4,369.01
+Instagram,Campaign_8,25,user_739,Multivitamin,16-07-2025,4,124.25
+Twitter,Campaign_14,19,user_2553,Kids Shake,15-04-2025,4,354.53
+Instagram,Campaign_2,82,user_2706,Protein Powder,12-06-2025,1,147.92
+Twitter,Campaign_13,3,user_585,Kids Shake,03-06-2025,2,449.94
+YouTube,Campaign_9,17,user_3126,Protein Powder,18-06-2025,2,204.7
+Instagram,Campaign_15,16,user_2025,Protein Powder,30-05-2025,4,372.95
+YouTube,Campaign_4,46,user_4270,Multivitamin,20-03-2025,4,347.09
+Twitter,Campaign_10,11,user_2647,Multivitamin,08-02-2025,1,377.47
+Instagram,Campaign_18,28,user_4268,Protein Powder,16-05-2025,4,326.49
+Instagram,Campaign_7,40,user_2953,Protein Powder,30-01-2025,2,487.17
+Instagram,Campaign_8,62,user_3557,Omega-3,16-07-2025,2,401.31
+YouTube,Campaign_19,72,user_981,Kids Shake,18-05-2025,1,485.04
+YouTube,Campaign_19,20,user_3894,Multivitamin,15-04-2025,1,139.39
+Twitter,Campaign_16,90,user_749,Omega-3,09-02-2025,1,48.69
+YouTube,Campaign_5,75,user_4394,Protein Powder,17-06-2025,4,131.68
+YouTube,Campaign_18,71,user_2846,Kids Shake,31-05-2025,1,350.84
+YouTube,Campaign_12,51,user_1104,Omega-3,09-07-2025,4,359.18
+Instagram,Campaign_18,10,user_2415,Kids Shake,01-06-2025,5,109.58
+Instagram,Campaign_12,49,user_2652,Kids Shake,10-05-2025,5,458.95
+Twitter,Campaign_18,23,user_1314,Protein Powder,06-03-2025,2,235.7
+Instagram,Campaign_9,99,user_4437,Omega-3,25-03-2025,1,392.44
+Twitter,Campaign_17,63,user_3106,Multivitamin,15-07-2025,5,431.28
+Instagram,Campaign_20,87,user_1957,Omega-3,03-07-2025,5,413.14
+Instagram,Campaign_7,13,user_4294,Kids Shake,28-02-2025,2,314.26
+Twitter,Campaign_11,45,user_3358,Omega-3,21-06-2025,1,271.14
+Instagram,Campaign_3,87,user_359,Multivitamin,04-06-2025,1,117
+YouTube,Campaign_16,95,user_1570,Protein Powder,11-07-2025,5,328.04
+Instagram,Campaign_13,35,user_4014,Omega-3,07-07-2025,3,125.95
+Instagram,Campaign_3,60,user_108,Multivitamin,02-02-2025,4,465.63
+YouTube,Campaign_3,39,user_3835,Protein Powder,18-04-2025,5,376.87
+YouTube,Campaign_14,46,user_3024,Protein Powder,12-02-2025,3,273.93
+Instagram,Campaign_3,49,user_2490,Protein Powder,25-05-2025,5,66.62
+Instagram,Campaign_8,60,user_4356,Kids Shake,01-06-2025,2,272.57
+Instagram,Campaign_8,92,user_4670,Multivitamin,27-02-2025,5,219.29
+Instagram,Campaign_4,91,user_4724,Omega-3,28-01-2025,4,357.22
+Twitter,Campaign_14,23,user_853,Multivitamin,03-06-2025,5,212.75
+Twitter,Campaign_11,7,user_1296,Kids Shake,20-04-2025,3,284.04
+Instagram,Campaign_11,15,user_3046,Kids Shake,07-02-2025,4,416.55
+YouTube,Campaign_11,12,user_4985,Multivitamin,25-02-2025,5,122.69
+Instagram,Campaign_18,94,user_2082,Omega-3,26-03-2025,4,480.72
+Instagram,Campaign_1,58,user_284,Omega-3,17-02-2025,1,268.45
+Instagram,Campaign_10,58,user_54,Omega-3,24-05-2025,2,430.75
+Instagram,Campaign_1,30,user_2261,Multivitamin,25-06-2025,1,240.98
+Twitter,Campaign_5,45,user_1134,Omega-3,17-04-2025,5,139.93
+Instagram,Campaign_9,58,user_2461,Protein Powder,23-02-2025,4,293.15
+Twitter,Campaign_7,37,user_633,Omega-3,18-03-2025,2,254.37
+Twitter,Campaign_19,2,user_782,Omega-3,10-07-2025,5,203.14
+Instagram,Campaign_2,66,user_2740,Omega-3,30-03-2025,4,466.52
+YouTube,Campaign_4,54,user_1858,Protein Powder,07-02-2025,4,45.98
+Twitter,Campaign_17,23,user_338,Omega-3,03-03-2025,5,91.8
+YouTube,Campaign_17,39,user_1809,Multivitamin,07-07-2025,4,486.1
+Twitter,Campaign_20,22,user_4713,Protein Powder,24-05-2025,4,159.1
+Instagram,Campaign_13,59,user_1213,Multivitamin,24-04-2025,1,248.41
+Twitter,Campaign_2,5,user_4491,Kids Shake,13-05-2025,1,211.29
+Twitter,Campaign_14,22,user_1069,Multivitamin,18-03-2025,5,115.09
+YouTube,Campaign_13,73,user_4681,Multivitamin,26-02-2025,5,498.6
+Twitter,Campaign_17,70,user_2018,Multivitamin,01-07-2025,3,392.85
+Twitter,Campaign_11,48,user_4719,Protein Powder,21-06-2025,4,223.3
+Instagram,Campaign_12,25,user_1561,Omega-3,22-04-2025,5,334.6
+YouTube,Campaign_10,20,user_1387,Omega-3,12-02-2025,4,319.13
+YouTube,Campaign_15,74,user_368,Multivitamin,29-05-2025,3,94.88
+YouTube,Campaign_3,43,user_921,Protein Powder,18-05-2025,5,464.83
+YouTube,Campaign_10,61,user_113,Omega-3,23-01-2025,1,166.46
+Twitter,Campaign_16,37,user_187,Omega-3,27-05-2025,5,121.7
+Instagram,Campaign_18,25,user_4287,Omega-3,01-03-2025,4,319.06
+Twitter,Campaign_5,63,user_151,Kids Shake,20-02-2025,5,40.87
+Twitter,Campaign_6,38,user_493,Omega-3,29-05-2025,5,150.22
+Instagram,Campaign_15,96,user_69,Protein Powder,11-04-2025,3,338.23
+Twitter,Campaign_12,7,user_884,Protein Powder,06-05-2025,4,130.96
+YouTube,Campaign_13,78,user_4166,Protein Powder,30-04-2025,4,436.05
+YouTube,Campaign_18,27,user_722,Multivitamin,30-05-2025,5,484.06
+Instagram,Campaign_18,76,user_177,Protein Powder,17-05-2025,5,166.37
+YouTube,Campaign_16,20,user_3223,Multivitamin,15-07-2025,3,348.47
+YouTube,Campaign_12,29,user_2477,Multivitamin,13-03-2025,3,409.71
+Twitter,Campaign_9,8,user_3172,Protein Powder,27-02-2025,3,128.28
+Twitter,Campaign_11,98,user_3219,Multivitamin,27-06-2025,4,269.94
+YouTube,Campaign_20,29,user_1864,Kids Shake,19-05-2025,5,93.32
+Twitter,Campaign_10,2,user_4960,Omega-3,27-03-2025,5,83.25
+YouTube,Campaign_5,61,user_4760,Multivitamin,14-06-2025,3,350.5
+YouTube,Campaign_17,97,user_1108,Kids Shake,12-06-2025,5,460.21
+Twitter,Campaign_11,32,user_556,Protein Powder,02-06-2025,3,422.97
+Twitter,Campaign_5,8,user_242,Omega-3,05-04-2025,4,165.61
+Instagram,Campaign_9,57,user_1245,Multivitamin,22-06-2025,2,108.68
+Instagram,Campaign_20,57,user_2187,Multivitamin,17-02-2025,2,130.84
+Instagram,Campaign_1,47,user_2944,Protein Powder,24-01-2025,4,84.36
+Instagram,Campaign_20,76,user_3841,Omega-3,02-06-2025,4,255.89
+Twitter,Campaign_5,11,user_1342,Multivitamin,23-05-2025,1,216.12
+YouTube,Campaign_1,12,user_2211,Kids Shake,24-05-2025,2,383.73
+YouTube,Campaign_3,51,user_1451,Kids Shake,12-02-2025,4,350.17
+Twitter,Campaign_15,67,user_2022,Kids Shake,07-04-2025,1,311.81
+Instagram,Campaign_13,76,user_2564,Kids Shake,13-02-2025,5,305.03
+Twitter,Campaign_17,45,user_316,Protein Powder,26-03-2025,4,416.96
+Instagram,Campaign_2,99,user_2013,Kids Shake,09-07-2025,5,205.95
+Twitter,Campaign_2,23,user_1556,Omega-3,29-03-2025,4,444.51
+Twitter,Campaign_10,22,user_3780,Multivitamin,02-04-2025,3,314.3
+Twitter,Campaign_2,2,user_4236,Multivitamin,23-03-2025,4,63.41
+Instagram,Campaign_17,94,user_928,Multivitamin,20-02-2025,5,84.95
+Twitter,Campaign_14,37,user_2650,Kids Shake,13-07-2025,2,237.77
+Instagram,Campaign_7,34,user_3725,Protein Powder,16-05-2025,3,352.02
+Twitter,Campaign_6,37,user_1013,Protein Powder,20-06-2025,4,324.35
+Twitter,Campaign_3,56,user_4292,Kids Shake,11-03-2025,5,475.88
+Twitter,Campaign_13,8,user_4509,Kids Shake,08-07-2025,2,457.88
+Twitter,Campaign_19,70,user_1230,Multivitamin,12-06-2025,2,389.2
+Twitter,Campaign_2,70,user_3438,Omega-3,01-05-2025,4,158.61
+YouTube,Campaign_6,73,user_964,Multivitamin,29-05-2025,1,318.83
+YouTube,Campaign_9,20,user_101,Kids Shake,14-03-2025,4,280.88
+YouTube,Campaign_1,72,user_4981,Kids Shake,20-05-2025,2,302.65
+Instagram,Campaign_16,65,user_3718,Kids Shake,28-03-2025,1,308.58
+Twitter,Campaign_1,23,user_2005,Omega-3,11-02-2025,5,413.66
+Instagram,Campaign_7,31,user_401,Multivitamin,12-06-2025,1,333.57
+Instagram,Campaign_2,50,user_1191,Protein Powder,30-01-2025,5,422.25
+YouTube,Campaign_10,74,user_2713,Protein Powder,07-07-2025,1,220.14
+Twitter,Campaign_6,1,user_1322,Omega-3,13-02-2025,5,294.7
+YouTube,Campaign_18,4,user_1454,Kids Shake,21-02-2025,3,467.11
+YouTube,Campaign_3,93,user_2452,Omega-3,16-04-2025,4,413.73
+YouTube,Campaign_14,39,user_4510,Protein Powder,06-05-2025,4,84.58
+Instagram,Campaign_9,58,user_2697,Kids Shake,07-03-2025,2,354
+Instagram,Campaign_20,49,user_477,Protein Powder,23-02-2025,5,493.85
+Twitter,Campaign_16,33,user_4955,Omega-3,01-04-2025,5,426.94
+YouTube,Campaign_9,61,user_4305,Omega-3,16-06-2025,5,290.06
+YouTube,Campaign_17,73,user_4078,Kids Shake,03-06-2025,5,131.71
+Instagram,Campaign_10,76,user_1586,Protein Powder,19-06-2025,1,243.15
+Twitter,Campaign_4,68,user_1699,Kids Shake,05-04-2025,1,180.22
+Instagram,Campaign_18,31,user_1740,Protein Powder,06-02-2025,2,351.21
+Twitter,Campaign_9,79,user_556,Omega-3,04-05-2025,5,284
+Instagram,Campaign_1,60,user_933,Omega-3,23-04-2025,4,367.71
+Instagram,Campaign_20,60,user_239,Multivitamin,31-05-2025,3,420.24
+Instagram,Campaign_16,96,user_3888,Protein Powder,04-02-2025,2,251.12
+YouTube,Campaign_15,74,user_4399,Omega-3,23-03-2025,4,465.34
+Instagram,Campaign_2,26,user_4269,Omega-3,25-02-2025,3,286.49
+YouTube,Campaign_1,55,user_1707,Omega-3,20-04-2025,1,485.41
+YouTube,Campaign_9,24,user_256,Omega-3,14-04-2025,5,424.35
+Twitter,Campaign_19,33,user_4962,Kids Shake,02-06-2025,5,76.09
+YouTube,Campaign_10,17,user_2577,Protein Powder,11-05-2025,4,61.66
+YouTube,Campaign_8,4,user_3045,Kids Shake,03-05-2025,2,272.05
+Instagram,Campaign_6,10,user_920,Omega-3,10-07-2025,2,458.41
+Instagram,Campaign_15,42,user_4146,Protein Powder,18-03-2025,5,93.96
+Instagram,Campaign_11,62,user_3961,Omega-3,27-04-2025,2,389.35
+YouTube,Campaign_4,81,user_4229,Multivitamin,28-05-2025,1,240.5
+Twitter,Campaign_17,67,user_949,Protein Powder,01-05-2025,1,349.79
+Twitter,Campaign_20,33,user_714,Omega-3,22-03-2025,1,69.49
+Twitter,Campaign_10,67,user_185,Omega-3,06-02-2025,2,174.02
+YouTube,Campaign_7,54,user_2348,Omega-3,05-03-2025,3,390.94
+Instagram,Campaign_4,66,user_2234,Multivitamin,09-06-2025,3,74.94
+Twitter,Campaign_20,79,user_4585,Protein Powder,28-05-2025,5,188.15
+Instagram,Campaign_11,28,user_2221,Multivitamin,08-05-2025,5,137.52
+Twitter,Campaign_3,89,user_2551,Omega-3,03-03-2025,4,44.35
+YouTube,Campaign_1,24,user_3857,Protein Powder,22-06-2025,4,45.82
+Twitter,Campaign_14,6,user_3211,Multivitamin,17-02-2025,5,322.15
+Instagram,Campaign_15,86,user_2914,Omega-3,25-04-2025,2,362.19
+Instagram,Campaign_18,87,user_644,Kids Shake,24-02-2025,2,64.6
+Twitter,Campaign_15,89,user_797,Kids Shake,01-05-2025,4,245.86
+Instagram,Campaign_8,96,user_1178,Omega-3,17-04-2025,4,108.01
+Instagram,Campaign_11,28,user_2661,Kids Shake,17-03-2025,1,51.38
+Twitter,Campaign_4,90,user_2880,Kids Shake,23-03-2025,2,155.48
+YouTube,Campaign_12,43,user_4952,Multivitamin,11-03-2025,1,214.73
+YouTube,Campaign_4,54,user_2670,Protein Powder,03-05-2025,5,241.27
+YouTube,Campaign_19,81,user_3387,Multivitamin,11-02-2025,2,283.02
+Twitter,Campaign_16,36,user_3145,Protein Powder,23-04-2025,2,410.68
+Twitter,Campaign_19,18,user_3532,Kids Shake,24-02-2025,3,281.37
+YouTube,Campaign_8,4,user_1418,Protein Powder,23-02-2025,4,74.87
+Twitter,Campaign_20,63,user_3793,Omega-3,27-02-2025,1,414.57
+YouTube,Campaign_6,74,user_2524,Kids Shake,02-07-2025,5,72.2
+YouTube,Campaign_20,54,user_3105,Omega-3,15-03-2025,1,63.46
+Twitter,Campaign_5,36,user_4758,Protein Powder,12-06-2025,2,237.43
+Instagram,Campaign_10,35,user_3195,Kids Shake,30-05-2025,2,347.13
+Instagram,Campaign_11,26,user_2456,Omega-3,30-03-2025,3,495.34
+Twitter,Campaign_19,67,user_67,Kids Shake,17-06-2025,3,49.96
+YouTube,Campaign_18,27,user_436,Protein Powder,26-02-2025,3,72.66
+Instagram,Campaign_10,59,user_256,Multivitamin,31-03-2025,5,209.25
+Instagram,Campaign_11,100,user_3136,Kids Shake,13-04-2025,4,281.66
+YouTube,Campaign_6,72,user_3891,Multivitamin,01-06-2025,5,204.61
+YouTube,Campaign_12,51,user_3418,Multivitamin,07-05-2025,2,84.45
+YouTube,Campaign_3,44,user_129,Multivitamin,17-03-2025,4,487.99
+Twitter,Campaign_5,63,user_694,Multivitamin,05-02-2025,4,432.87
+Instagram,Campaign_20,92,user_3488,Multivitamin,25-03-2025,5,223.58
+Twitter,Campaign_15,2,user_3152,Omega-3,23-05-2025,2,223.89
+YouTube,Campaign_1,61,user_4735,Kids Shake,20-05-2025,5,149.24
+Instagram,Campaign_18,58,user_4722,Omega-3,11-07-2025,1,292.71
+YouTube,Campaign_12,53,user_928,Kids Shake,24-01-2025,1,88.2
+YouTube,Campaign_17,52,user_2290,Kids Shake,09-03-2025,1,271.21
+Twitter,Campaign_20,3,user_725,Multivitamin,21-03-2025,1,348.36
+Twitter,Campaign_18,14,user_4749,Omega-3,13-02-2025,1,453.72
+YouTube,Campaign_18,27,user_89,Kids Shake,25-03-2025,5,454.91
+Twitter,Campaign_19,38,user_2716,Kids Shake,20-04-2025,3,158.82
+YouTube,Campaign_2,81,user_4896,Omega-3,25-02-2025,3,49.48
+Twitter,Campaign_16,37,user_4737,Multivitamin,23-02-2025,1,335.03
+YouTube,Campaign_10,29,user_224,Omega-3,17-03-2025,1,80.87
+YouTube,Campaign_3,73,user_2277,Omega-3,16-06-2025,5,154.87
+Twitter,Campaign_9,67,user_117,Protein Powder,15-02-2025,2,456.86
+Twitter,Campaign_5,2,user_3659,Omega-3,05-06-2025,3,395.61
+Twitter,Campaign_8,36,user_3973,Multivitamin,06-03-2025,1,184.57
+YouTube,Campaign_3,46,user_1189,Multivitamin,15-03-2025,4,389.78
+YouTube,Campaign_8,21,user_3606,Multivitamin,27-05-2025,5,372.49
+YouTube,Campaign_12,52,user_446,Omega-3,20-06-2025,1,100.45
+YouTube,Campaign_13,75,user_3902,Omega-3,20-03-2025,5,132.16
+Instagram,Campaign_13,15,user_3888,Omega-3,12-06-2025,5,437.73
+Instagram,Campaign_1,28,user_2366,Kids Shake,13-04-2025,3,481.65
+Twitter,Campaign_2,22,user_798,Omega-3,31-03-2025,5,460.66
+Instagram,Campaign_9,49,user_2745,Omega-3,12-05-2025,1,142.57
+Twitter,Campaign_19,70,user_3205,Kids Shake,28-01-2025,2,372.47
+Twitter,Campaign_19,2,user_1597,Omega-3,27-01-2025,2,170.37
+YouTube,Campaign_1,29,user_70,Protein Powder,16-07-2025,4,66.9
+Instagram,Campaign_4,28,user_3654,Omega-3,24-05-2025,3,140.91
+YouTube,Campaign_2,52,user_195,Protein Powder,05-07-2025,5,335.17
+Instagram,Campaign_7,100,user_4911,Protein Powder,19-06-2025,1,431.09
+Instagram,Campaign_5,94,user_3080,Multivitamin,21-06-2025,2,141.6
+YouTube,Campaign_15,20,user_621,Kids Shake,10-05-2025,4,352.27
+YouTube,Campaign_11,39,user_2109,Multivitamin,01-07-2025,3,393.01
+Twitter,Campaign_13,63,user_3184,Omega-3,04-07-2025,3,478.69
+Twitter,Campaign_9,77,user_1458,Kids Shake,02-07-2025,4,490.12
+Instagram,Campaign_7,49,user_5000,Kids Shake,04-06-2025,4,72.05
+Instagram,Campaign_18,35,user_3533,Multivitamin,12-02-2025,1,458.05
+YouTube,Campaign_9,4,user_847,Protein Powder,01-07-2025,1,294.25
+YouTube,Campaign_9,20,user_3653,Protein Powder,14-03-2025,2,333.38
+YouTube,Campaign_1,12,user_310,Kids Shake,12-05-2025,2,356.03
+Twitter,Campaign_13,90,user_4708,Protein Powder,10-03-2025,4,249.51
+Instagram,Campaign_13,87,user_575,Multivitamin,19-07-2025,4,477.99
+Instagram,Campaign_16,59,user_993,Omega-3,25-04-2025,3,212.3
+YouTube,Campaign_3,27,user_2993,Omega-3,29-06-2025,4,385.02
+Instagram,Campaign_10,82,user_1664,Multivitamin,28-02-2025,1,484.41
+YouTube,Campaign_7,71,user_2449,Kids Shake,22-06-2025,3,253.52
+Instagram,Campaign_15,87,user_1553,Multivitamin,10-07-2025,2,32.18
+YouTube,Campaign_19,75,user_1954,Kids Shake,11-04-2025,1,400.51
+Instagram,Campaign_10,35,user_4094,Kids Shake,15-07-2025,1,182.86
+Instagram,Campaign_11,57,user_351,Kids Shake,19-06-2025,2,407.41
+YouTube,Campaign_17,21,user_3755,Multivitamin,21-02-2025,2,463.91
+YouTube,Campaign_2,97,user_1160,Kids Shake,02-02-2025,1,246.19
+Twitter,Campaign_20,6,user_376,Multivitamin,21-01-2025,2,26.9
+Instagram,Campaign_2,92,user_2518,Protein Powder,25-03-2025,5,101.93
+Twitter,Campaign_19,6,user_524,Protein Powder,20-06-2025,4,305.59
+Twitter,Campaign_20,56,user_1807,Protein Powder,29-05-2025,4,181.92
+Twitter,Campaign_13,48,user_2657,Protein Powder,25-01-2025,5,282.02
+YouTube,Campaign_11,29,user_1747,Protein Powder,18-02-2025,2,181.04
+Twitter,Campaign_4,89,user_2244,Multivitamin,04-04-2025,2,354.22
+YouTube,Campaign_18,51,user_1352,Kids Shake,18-05-2025,5,39.54
+Instagram,Campaign_4,40,user_3082,Multivitamin,15-07-2025,4,58.75
+Instagram,Campaign_1,10,user_1470,Protein Powder,03-02-2025,5,445.72
+YouTube,Campaign_14,43,user_3900,Multivitamin,28-05-2025,2,327.12
+Twitter,Campaign_17,37,user_3690,Kids Shake,19-05-2025,2,313.06
+Instagram,Campaign_2,66,user_4885,Multivitamin,14-03-2025,5,476.14
+Instagram,Campaign_10,92,user_2850,Kids Shake,18-07-2025,5,133.11
+Instagram,Campaign_4,62,user_4344,Protein Powder,11-02-2025,3,434.11
+Instagram,Campaign_18,66,user_4158,Multivitamin,23-03-2025,2,152.68
+Twitter,Campaign_7,32,user_924,Multivitamin,25-01-2025,4,258.81
+Twitter,Campaign_6,79,user_354,Protein Powder,04-02-2025,3,156.83
+Twitter,Campaign_14,14,user_2060,Omega-3,12-02-2025,4,40.79
+Instagram,Campaign_2,92,user_4403,Multivitamin,09-06-2025,1,252.83
+Instagram,Campaign_4,35,user_581,Multivitamin,28-03-2025,5,298.29
+Instagram,Campaign_14,82,user_1629,Omega-3,22-05-2025,1,176.54
+YouTube,Campaign_4,46,user_1943,Kids Shake,29-05-2025,4,447.86
+Twitter,Campaign_3,32,user_3859,Kids Shake,06-07-2025,4,89.57
+YouTube,Campaign_20,24,user_3728,Multivitamin,11-04-2025,3,85.47
+Twitter,Campaign_7,80,user_2938,Omega-3,29-05-2025,3,81.06
+YouTube,Campaign_19,12,user_489,Omega-3,15-06-2025,1,428.79
+YouTube,Campaign_15,71,user_3427,Multivitamin,23-04-2025,2,445.48
+YouTube,Campaign_20,69,user_1285,Multivitamin,22-02-2025,5,430.4
+Instagram,Campaign_3,82,user_3373,Kids Shake,25-05-2025,5,247.27
+Twitter,Campaign_15,8,user_2287,Protein Powder,01-04-2025,2,138.96
+Instagram,Campaign_14,31,user_4747,Multivitamin,18-02-2025,2,458.6
+Twitter,Campaign_1,45,user_3423,Protein Powder,09-07-2025,4,372.07
+Twitter,Campaign_17,37,user_276,Kids Shake,06-03-2025,4,250.05
+Instagram,Campaign_4,87,user_3707,Kids Shake,19-05-2025,1,288.07
+YouTube,Campaign_1,51,user_3332,Multivitamin,16-06-2025,3,161.98
+Twitter,Campaign_3,6,user_131,Kids Shake,29-01-2025,3,97.67
+Twitter,Campaign_15,68,user_4673,Protein Powder,25-03-2025,4,390.48
+Instagram,Campaign_13,100,user_1516,Omega-3,09-02-2025,4,357.87
+Instagram,Campaign_1,88,user_580,Kids Shake,24-01-2025,3,274.84
+Twitter,Campaign_10,33,user_3489,Omega-3,22-01-2025,5,280.37
+Twitter,Campaign_7,2,user_664,Omega-3,05-07-2025,5,473.75
+Twitter,Campaign_12,45,user_423,Protein Powder,12-04-2025,3,243.37
+Twitter,Campaign_2,63,user_2995,Omega-3,05-06-2025,5,358.34
+Instagram,Campaign_18,40,user_1678,Multivitamin,25-04-2025,2,279.02
+Instagram,Campaign_16,82,user_4753,Multivitamin,23-05-2025,3,189.3
+Instagram,Campaign_9,28,user_4126,Kids Shake,10-05-2025,1,50.42
+Twitter,Campaign_12,23,user_3707,Kids Shake,13-03-2025,5,418.19
+Instagram,Campaign_16,42,user_4358,Omega-3,26-03-2025,5,196.71
+Instagram,Campaign_3,57,user_1543,Kids Shake,27-06-2025,1,207.53
+Instagram,Campaign_6,88,user_2363,Protein Powder,22-06-2025,2,152.45
+Twitter,Campaign_5,67,user_4066,Multivitamin,28-05-2025,5,477.01
+Instagram,Campaign_1,47,user_2402,Kids Shake,26-01-2025,5,467.23
+Twitter,Campaign_16,3,user_2841,Kids Shake,28-03-2025,1,159.93
+YouTube,Campaign_3,55,user_181,Multivitamin,08-03-2025,3,217.61
+YouTube,Campaign_11,72,user_2674,Kids Shake,18-02-2025,5,424.12
+YouTube,Campaign_15,78,user_3752,Omega-3,24-02-2025,2,451.18
+YouTube,Campaign_10,27,user_1407,Omega-3,22-05-2025,4,198.51
+YouTube,Campaign_10,78,user_388,Multivitamin,20-04-2025,3,238.84
+YouTube,Campaign_6,43,user_1318,Omega-3,03-06-2025,2,422.88
+YouTube,Campaign_5,46,user_1321,Multivitamin,20-06-2025,1,497.01
+Instagram,Campaign_19,13,user_1037,Kids Shake,14-05-2025,3,108.56
+Instagram,Campaign_18,31,user_285,Omega-3,22-04-2025,2,199
+Twitter,Campaign_18,90,user_1332,Omega-3,18-06-2025,1,214.19
+YouTube,Campaign_16,21,user_1191,Kids Shake,29-04-2025,2,22.06
+Instagram,Campaign_18,59,user_4157,Omega-3,04-02-2025,3,247.48
+Instagram,Campaign_10,58,user_4700,Multivitamin,25-02-2025,4,182.57
+YouTube,Campaign_4,12,user_3924,Protein Powder,14-06-2025,5,76.1
+Twitter,Campaign_1,33,user_3291,Multivitamin,27-03-2025,3,64.39
+Instagram,Campaign_2,9,user_4982,Multivitamin,20-02-2025,5,126.63
+Instagram,Campaign_9,57,user_1604,Protein Powder,28-06-2025,5,427.74
+YouTube,Campaign_3,20,user_4193,Kids Shake,31-05-2025,4,172.52
+Instagram,Campaign_20,58,user_4191,Protein Powder,30-01-2025,3,210.83
+Twitter,Campaign_14,90,user_3029,Kids Shake,15-04-2025,1,156.63
+Twitter,Campaign_12,7,user_2524,Kids Shake,26-02-2025,1,123.53
+Twitter,Campaign_15,64,user_3405,Kids Shake,07-05-2025,2,406.72
+Instagram,Campaign_14,59,user_3394,Multivitamin,19-02-2025,5,61.32
+Instagram,Campaign_7,9,user_2485,Kids Shake,07-03-2025,3,51.74
+YouTube,Campaign_19,78,user_3079,Protein Powder,18-07-2025,4,326.63
+Instagram,Campaign_9,13,user_3396,Multivitamin,27-02-2025,4,360.92
+Instagram,Campaign_5,25,user_1633,Multivitamin,13-04-2025,3,285.86
+Twitter,Campaign_2,41,user_2474,Omega-3,15-03-2025,5,375.13
+Instagram,Campaign_8,100,user_220,Protein Powder,10-06-2025,3,164.08
+Instagram,Campaign_16,66,user_1018,Omega-3,04-04-2025,2,256.11
+YouTube,Campaign_8,54,user_234,Protein Powder,10-05-2025,4,497.28
+Instagram,Campaign_3,58,user_4907,Omega-3,21-02-2025,4,291.48
+YouTube,Campaign_9,52,user_3900,Protein Powder,15-04-2025,5,371.82
+Twitter,Campaign_1,45,user_2127,Multivitamin,21-02-2025,1,90.15
+Twitter,Campaign_15,41,user_1110,Omega-3,08-06-2025,1,150.88
+Twitter,Campaign_14,19,user_2917,Protein Powder,06-05-2025,3,274.21
+Twitter,Campaign_3,64,user_4210,Multivitamin,09-02-2025,2,387.05
+Instagram,Campaign_20,84,user_1370,Omega-3,30-04-2025,3,150.3
+YouTube,Campaign_12,24,user_786,Omega-3,13-06-2025,1,85.74
+YouTube,Campaign_10,46,user_3056,Kids Shake,05-04-2025,3,462.04
+Instagram,Campaign_6,16,user_840,Multivitamin,10-06-2025,5,126.13
+Instagram,Campaign_7,65,user_4577,Protein Powder,04-04-2025,4,459.69
+Twitter,Campaign_4,98,user_1076,Protein Powder,19-03-2025,3,169.56
+YouTube,Campaign_12,81,user_1139,Kids Shake,17-02-2025,5,386.52
+Instagram,Campaign_11,25,user_1411,Omega-3,12-07-2025,1,126.73
+YouTube,Campaign_5,29,user_1857,Omega-3,17-06-2025,2,82.5
+YouTube,Campaign_3,21,user_3481,Protein Powder,30-06-2025,1,391.85
+Instagram,Campaign_14,59,user_349,Multivitamin,22-06-2025,1,400.67
+Instagram,Campaign_17,84,user_4860,Protein Powder,21-03-2025,1,456.09
+Instagram,Campaign_2,59,user_543,Omega-3,30-01-2025,1,382.18
+Instagram,Campaign_4,57,user_4930,Multivitamin,19-02-2025,2,108.7
+YouTube,Campaign_12,93,user_240,Protein Powder,12-06-2025,3,475.42
+Instagram,Campaign_12,84,user_2886,Multivitamin,13-03-2025,5,136.07
+YouTube,Campaign_19,74,user_560,Protein Powder,21-02-2025,1,273.84
+Instagram,Campaign_7,34,user_2309,Multivitamin,04-03-2025,1,487.32
+Twitter,Campaign_4,6,user_1754,Kids Shake,17-04-2025,5,108.86
+Instagram,Campaign_4,26,user_1482,Omega-3,13-04-2025,4,122.85
+YouTube,Campaign_8,20,user_3339,Protein Powder,30-04-2025,1,243.63
+YouTube,Campaign_17,44,user_1114,Kids Shake,18-04-2025,3,287.42
+YouTube,Campaign_2,74,user_674,Omega-3,15-03-2025,1,204.69
+Twitter,Campaign_15,11,user_4919,Omega-3,25-01-2025,4,128.42
+Twitter,Campaign_14,11,user_2381,Kids Shake,01-06-2025,1,449.48
+YouTube,Campaign_16,73,user_3011,Multivitamin,16-07-2025,4,342.61
+YouTube,Campaign_13,17,user_3589,Protein Powder,19-06-2025,2,209.51
+YouTube,Campaign_19,93,user_834,Multivitamin,03-07-2025,3,488.1
+Instagram,Campaign_11,10,user_1641,Kids Shake,18-06-2025,2,422.29
+Instagram,Campaign_16,9,user_2282,Omega-3,05-02-2025,4,190.93
+Twitter,Campaign_20,32,user_3314,Kids Shake,11-03-2025,3,90.74
+YouTube,Campaign_15,29,user_886,Protein Powder,16-05-2025,4,258.69
+YouTube,Campaign_5,74,user_244,Protein Powder,06-07-2025,1,259.1
+Instagram,Campaign_1,88,user_1468,Kids Shake,15-02-2025,3,93.31
+Instagram,Campaign_20,92,user_790,Protein Powder,31-01-2025,5,388.43
+YouTube,Campaign_15,73,user_1655,Omega-3,31-01-2025,4,255.32
+Twitter,Campaign_9,32,user_4444,Omega-3,03-03-2025,5,28.48
+Twitter,Campaign_2,68,user_3526,Protein Powder,12-04-2025,4,170.99
+Instagram,Campaign_13,86,user_3626,Kids Shake,10-07-2025,1,104.9
+YouTube,Campaign_10,27,user_1345,Kids Shake,31-03-2025,2,169.98
+Twitter,Campaign_13,5,user_3994,Protein Powder,24-02-2025,4,336.84
+Twitter,Campaign_18,6,user_4688,Kids Shake,20-03-2025,5,430.09
+Instagram,Campaign_17,87,user_457,Kids Shake,13-05-2025,4,303.7
+Twitter,Campaign_13,11,user_2890,Omega-3,28-04-2025,1,33.51
+Twitter,Campaign_2,79,user_1051,Omega-3,21-04-2025,5,32.91
+YouTube,Campaign_11,44,user_3118,Protein Powder,01-04-2025,3,496.13
+Twitter,Campaign_14,11,user_2878,Protein Powder,31-01-2025,2,138.85
+Twitter,Campaign_10,89,user_4855,Protein Powder,24-01-2025,1,437.09
+Twitter,Campaign_4,85,user_2766,Multivitamin,14-07-2025,5,176.54
+YouTube,Campaign_15,69,user_3461,Kids Shake,12-05-2025,1,354.06
+Instagram,Campaign_19,40,user_183,Omega-3,14-04-2025,5,207.34
+YouTube,Campaign_19,4,user_801,Kids Shake,24-06-2025,2,181.26
+Twitter,Campaign_17,5,user_2782,Multivitamin,12-02-2025,3,194.4
+Instagram,Campaign_14,96,user_1653,Kids Shake,07-02-2025,1,423.38
+Instagram,Campaign_18,13,user_1754,Omega-3,13-05-2025,1,162.71
+YouTube,Campaign_19,73,user_3294,Multivitamin,10-02-2025,1,364.5
+Twitter,Campaign_19,7,user_777,Omega-3,11-05-2025,1,291.89
+Twitter,Campaign_17,33,user_3894,Kids Shake,27-05-2025,3,401.91
+Twitter,Campaign_10,63,user_4135,Omega-3,31-03-2025,5,170.41
+Instagram,Campaign_14,66,user_3296,Omega-3,10-02-2025,5,237.55
+Instagram,Campaign_18,13,user_1480,Protein Powder,09-02-2025,5,434.1
+YouTube,Campaign_19,27,user_4090,Multivitamin,31-01-2025,4,148.61
+Instagram,Campaign_18,35,user_3554,Protein Powder,08-03-2025,2,194.85
+Instagram,Campaign_5,96,user_1970,Multivitamin,25-01-2025,3,425.18
+Instagram,Campaign_14,26,user_2611,Protein Powder,07-02-2025,2,426.06
+Instagram,Campaign_9,86,user_2352,Multivitamin,15-05-2025,5,133.34
+Instagram,Campaign_8,35,user_931,Multivitamin,31-05-2025,1,137.88
+YouTube,Campaign_10,75,user_3803,Kids Shake,26-02-2025,4,222.57
+Twitter,Campaign_2,33,user_1655,Multivitamin,11-05-2025,2,33.99
+YouTube,Campaign_9,27,user_4512,Multivitamin,05-02-2025,1,482.62
+YouTube,Campaign_16,83,user_164,Protein Powder,28-06-2025,3,308.77
+Instagram,Campaign_3,87,user_3335,Omega-3,29-01-2025,1,210.51
+Twitter,Campaign_5,67,user_1934,Protein Powder,23-02-2025,5,467.81
+YouTube,Campaign_17,52,user_4755,Omega-3,14-03-2025,1,134.28
+YouTube,Campaign_4,20,user_2568,Omega-3,20-02-2025,4,406.8
+Twitter,Campaign_8,19,user_3465,Multivitamin,13-06-2025,1,104.07
+Instagram,Campaign_9,40,user_3601,Kids Shake,15-05-2025,5,46.84
+YouTube,Campaign_18,69,user_3070,Protein Powder,29-04-2025,5,223.42
+Twitter,Campaign_8,77,user_2276,Multivitamin,18-04-2025,4,363.52
+YouTube,Campaign_10,17,user_173,Protein Powder,31-01-2025,1,351.53
+Instagram,Campaign_8,88,user_2073,Kids Shake,01-05-2025,3,453.52
+YouTube,Campaign_4,39,user_4382,Multivitamin,28-03-2025,4,23.78
+YouTube,Campaign_13,52,user_2094,Omega-3,26-06-2025,2,162.76
+YouTube,Campaign_6,12,user_3596,Omega-3,05-02-2025,4,398.87
+Twitter,Campaign_9,5,user_657,Kids Shake,21-03-2025,4,464.72
+YouTube,Campaign_11,39,user_3461,Protein Powder,08-06-2025,3,263.04
+Instagram,Campaign_12,58,user_3448,Omega-3,25-03-2025,1,385.75
+Instagram,Campaign_6,57,user_3633,Multivitamin,19-07-2025,4,116.04
+Twitter,Campaign_10,63,user_2571,Protein Powder,21-06-2025,2,139.81
+Instagram,Campaign_5,34,user_4867,Kids Shake,29-04-2025,4,249.62
+YouTube,Campaign_5,95,user_2136,Multivitamin,25-01-2025,5,416.85
+Instagram,Campaign_10,50,user_1628,Protein Powder,04-04-2025,3,107.31
+YouTube,Campaign_13,69,user_4673,Multivitamin,14-07-2025,1,463.09
+Twitter,Campaign_20,1,user_1874,Protein Powder,23-03-2025,2,145.66
+Instagram,Campaign_6,26,user_408,Kids Shake,11-02-2025,4,308.19
+Instagram,Campaign_5,62,user_730,Omega-3,06-06-2025,5,76.33
+Twitter,Campaign_17,79,user_3565,Kids Shake,28-01-2025,4,76.89
+Twitter,Campaign_7,3,user_1561,Omega-3,07-05-2025,4,203.4
+Instagram,Campaign_14,25,user_1693,Multivitamin,08-05-2025,2,220.8
+Twitter,Campaign_14,98,user_1196,Protein Powder,06-05-2025,3,133.03
+Twitter,Campaign_15,36,user_2035,Omega-3,20-02-2025,4,61.15
+YouTube,Campaign_16,24,user_1092,Omega-3,23-01-2025,4,349.69
+YouTube,Campaign_13,61,user_3468,Omega-3,01-07-2025,1,287.36
+Twitter,Campaign_2,63,user_2727,Multivitamin,21-03-2025,3,498.43
+Twitter,Campaign_20,45,user_373,Protein Powder,16-05-2025,5,317.44
+Instagram,Campaign_10,30,user_3234,Omega-3,16-06-2025,5,39.74
+Twitter,Campaign_6,68,user_2133,Multivitamin,13-03-2025,4,466.56
+Twitter,Campaign_15,6,user_1081,Protein Powder,29-04-2025,5,227.81
+YouTube,Campaign_9,20,user_958,Omega-3,08-07-2025,2,259.62
+YouTube,Campaign_9,43,user_2954,Kids Shake,08-05-2025,3,314.21
+Twitter,Campaign_9,67,user_4236,Omega-3,30-03-2025,2,171.46
+YouTube,Campaign_16,21,user_1240,Kids Shake,06-07-2025,2,91.34
+YouTube,Campaign_8,4,user_1501,Protein Powder,21-03-2025,3,98.51
+Twitter,Campaign_15,5,user_3576,Protein Powder,15-03-2025,1,231.93
+Twitter,Campaign_18,79,user_3975,Kids Shake,15-03-2025,1,426
+Instagram,Campaign_5,76,user_1013,Omega-3,26-06-2025,2,436.72
+Instagram,Campaign_6,88,user_1379,Omega-3,25-02-2025,5,121.95
+Instagram,Campaign_1,100,user_4310,Multivitamin,04-04-2025,1,138.16
+Instagram,Campaign_16,66,user_773,Omega-3,13-07-2025,3,347.03
+Twitter,Campaign_4,89,user_3230,Omega-3,18-02-2025,1,421.75
+YouTube,Campaign_5,55,user_237,Protein Powder,24-03-2025,4,237.95
+YouTube,Campaign_9,52,user_4868,Protein Powder,26-04-2025,1,334.96
+Twitter,Campaign_15,98,user_2662,Multivitamin,26-05-2025,1,404.75
+YouTube,Campaign_10,43,user_2648,Protein Powder,01-07-2025,5,476.91
+YouTube,Campaign_13,71,user_759,Kids Shake,15-05-2025,2,135.24
+Instagram,Campaign_13,58,user_731,Protein Powder,27-05-2025,2,206.48
+Instagram,Campaign_13,94,user_2335,Multivitamin,19-06-2025,3,255.61
+Instagram,Campaign_14,9,user_2541,Multivitamin,19-04-2025,1,419.39
+Instagram,Campaign_17,82,user_1638,Kids Shake,27-03-2025,4,248.69
+Instagram,Campaign_19,88,user_4918,Kids Shake,26-06-2025,4,409.28
+YouTube,Campaign_20,54,user_1527,Kids Shake,08-02-2025,4,64.61
+Instagram,Campaign_17,96,user_2800,Kids Shake,27-01-2025,2,330.85
+Twitter,Campaign_5,79,user_4058,Protein Powder,06-05-2025,4,229.93
+Instagram,Campaign_16,42,user_2461,Multivitamin,17-06-2025,3,423.94
+YouTube,Campaign_17,12,user_3504,Omega-3,24-02-2025,1,284.48
+Twitter,Campaign_2,22,user_4206,Protein Powder,11-03-2025,4,218.25
+YouTube,Campaign_15,81,user_4657,Omega-3,20-04-2025,3,301.07
+Twitter,Campaign_17,68,user_134,Protein Powder,31-01-2025,4,106.19
+Twitter,Campaign_6,68,user_3220,Protein Powder,28-06-2025,4,440.84
+Instagram,Campaign_10,91,user_2572,Kids Shake,29-01-2025,4,319.43
+Instagram,Campaign_9,66,user_2797,Multivitamin,26-05-2025,2,57.55
+Instagram,Campaign_20,40,user_2125,Protein Powder,30-03-2025,5,28.6
+Instagram,Campaign_13,65,user_956,Protein Powder,06-06-2025,4,240.88
+YouTube,Campaign_13,74,user_4931,Kids Shake,03-05-2025,5,410.3
+YouTube,Campaign_20,39,user_2956,Kids Shake,03-05-2025,1,80.04
+Instagram,Campaign_1,82,user_1564,Protein Powder,15-07-2025,2,432.33
+YouTube,Campaign_7,69,user_3942,Multivitamin,03-02-2025,2,229.18
+Twitter,Campaign_18,67,user_1564,Protein Powder,03-05-2025,4,91.12
+Twitter,Campaign_14,38,user_179,Protein Powder,07-06-2025,2,374.61
+Twitter,Campaign_15,67,user_3974,Kids Shake,14-07-2025,4,300.91
+Twitter,Campaign_7,38,user_2416,Kids Shake,06-07-2025,3,23.78
+Twitter,Campaign_14,7,user_3406,Kids Shake,21-02-2025,5,370.92
+Twitter,Campaign_10,32,user_304,Kids Shake,08-04-2025,4,266.41
+YouTube,Campaign_20,78,user_3997,Multivitamin,04-07-2025,5,29.13
+Twitter,Campaign_19,90,user_2588,Protein Powder,12-05-2025,4,446.79
+YouTube,Campaign_4,27,user_4054,Omega-3,27-03-2025,4,29.99
+Twitter,Campaign_10,3,user_1575,Kids Shake,22-04-2025,4,131.41
+Twitter,Campaign_8,45,user_4815,Omega-3,15-02-2025,4,82.96
+Instagram,Campaign_10,94,user_3198,Kids Shake,28-01-2025,3,402.07
+YouTube,Campaign_6,72,user_1698,Omega-3,24-01-2025,1,340.19
+Instagram,Campaign_5,40,user_1420,Multivitamin,09-06-2025,5,256.25
+Instagram,Campaign_14,28,user_4045,Omega-3,20-05-2025,2,287.28
+YouTube,Campaign_1,72,user_2940,Omega-3,19-04-2025,2,103.86
+Twitter,Campaign_17,5,user_262,Protein Powder,24-04-2025,4,74.71
+Instagram,Campaign_8,28,user_989,Multivitamin,17-03-2025,3,496.96
+Instagram,Campaign_12,94,user_383,Omega-3,11-06-2025,5,310.06
+Instagram,Campaign_4,30,user_414,Kids Shake,24-03-2025,1,487.84
+Instagram,Campaign_20,34,user_4995,Protein Powder,26-02-2025,1,263.51
+Instagram,Campaign_6,31,user_968,Multivitamin,18-04-2025,2,369.61
+Instagram,Campaign_15,50,user_4145,Kids Shake,24-06-2025,2,330.6
+Instagram,Campaign_11,92,user_1129,Protein Powder,29-05-2025,4,485.43
+Twitter,Campaign_1,41,user_2010,Kids Shake,23-04-2025,3,262.41
+Instagram,Campaign_3,57,user_2180,Omega-3,04-04-2025,3,322.13
+Instagram,Campaign_8,50,user_1242,Kids Shake,22-05-2025,2,404.85
+YouTube,Campaign_14,74,user_3354,Kids Shake,09-03-2025,3,473
+Instagram,Campaign_15,30,user_1193,Protein Powder,09-03-2025,1,60.69
+Twitter,Campaign_11,18,user_3291,Multivitamin,30-03-2025,1,208.77
+Twitter,Campaign_2,5,user_1237,Protein Powder,08-02-2025,5,486.88
+Instagram,Campaign_14,66,user_3294,Omega-3,30-04-2025,3,23.79
+YouTube,Campaign_9,53,user_4324,Multivitamin,21-01-2025,4,234.17
+YouTube,Campaign_7,24,user_4460,Kids Shake,22-01-2025,3,446.08
+Twitter,Campaign_13,1,user_1617,Omega-3,28-06-2025,1,277.97
+Twitter,Campaign_13,8,user_1033,Omega-3,26-05-2025,1,265.6
+YouTube,Campaign_10,61,user_4271,Omega-3,07-02-2025,2,31.24
+Instagram,Campaign_18,50,user_4854,Omega-3,19-05-2025,3,368.72
+Instagram,Campaign_17,47,user_905,Protein Powder,15-04-2025,3,320.95
+Twitter,Campaign_12,45,user_1015,Protein Powder,03-02-2025,1,235.39
+Twitter,Campaign_19,2,user_43,Kids Shake,24-04-2025,2,406.59
+Twitter,Campaign_19,14,user_4634,Multivitamin,21-04-2025,3,156.58
+Twitter,Campaign_19,6,user_1147,Kids Shake,08-03-2025,2,70.51
+Instagram,Campaign_17,30,user_4771,Multivitamin,18-04-2025,4,67.03
+YouTube,Campaign_14,20,user_3376,Protein Powder,26-06-2025,1,223.95
+Twitter,Campaign_5,11,user_3902,Multivitamin,27-03-2025,1,197.26
+Instagram,Campaign_17,15,user_3300,Kids Shake,13-05-2025,5,259.44
+YouTube,Campaign_14,97,user_3606,Kids Shake,04-04-2025,2,89.29
+Twitter,Campaign_5,3,user_3972,Kids Shake,16-06-2025,5,434.37
+Twitter,Campaign_4,80,user_1742,Kids Shake,20-03-2025,1,378.32
+Twitter,Campaign_18,19,user_3026,Protein Powder,15-02-2025,4,72.96
+YouTube,Campaign_12,4,user_4684,Omega-3,09-07-2025,5,93.59
+YouTube,Campaign_12,4,user_2498,Omega-3,03-05-2025,3,253.24
+Instagram,Campaign_5,100,user_1165,Kids Shake,07-07-2025,3,446.75
+Instagram,Campaign_7,35,user_1500,Kids Shake,19-07-2025,1,282.82
+YouTube,Campaign_3,24,user_367,Kids Shake,18-03-2025,5,168.66
+YouTube,Campaign_15,44,user_2768,Kids Shake,20-03-2025,5,83.75
+Instagram,Campaign_5,31,user_4136,Kids Shake,26-03-2025,4,91.51
+Twitter,Campaign_11,98,user_732,Kids Shake,11-04-2025,2,452.12
+Instagram,Campaign_11,15,user_4432,Protein Powder,29-01-2025,4,373.24
+Twitter,Campaign_3,98,user_1357,Protein Powder,23-02-2025,3,289.3
+Instagram,Campaign_4,60,user_4583,Protein Powder,31-05-2025,5,280.08
+YouTube,Campaign_2,21,user_4672,Multivitamin,20-03-2025,5,450.49
+Instagram,Campaign_4,60,user_4357,Multivitamin,15-07-2025,3,397.64
+Instagram,Campaign_8,66,user_4748,Kids Shake,28-06-2025,5,311.29
+Instagram,Campaign_13,87,user_4825,Protein Powder,16-03-2025,1,183.18
+Twitter,Campaign_6,8,user_3400,Protein Powder,06-03-2025,3,203.37
+YouTube,Campaign_3,78,user_940,Protein Powder,03-03-2025,2,156.97
+Twitter,Campaign_6,36,user_2094,Protein Powder,10-06-2025,3,477.04
+YouTube,Campaign_6,69,user_483,Omega-3,03-06-2025,1,362.38
+YouTube,Campaign_10,81,user_3195,Protein Powder,29-04-2025,2,218.15
+Instagram,Campaign_11,66,user_2113,Kids Shake,19-06-2025,1,117.23
+YouTube,Campaign_20,55,user_4801,Multivitamin,15-03-2025,5,381.15
+Instagram,Campaign_13,86,user_943,Omega-3,04-07-2025,3,243.12
+Twitter,Campaign_14,19,user_537,Kids Shake,12-07-2025,4,324.1
+Twitter,Campaign_1,33,user_2205,Protein Powder,17-05-2025,5,332.74
+Instagram,Campaign_5,58,user_2496,Kids Shake,27-03-2025,1,426.21
+YouTube,Campaign_17,55,user_1667,Multivitamin,15-04-2025,5,492.95
+YouTube,Campaign_8,44,user_4404,Kids Shake,27-02-2025,4,40.06
+Twitter,Campaign_15,85,user_2370,Multivitamin,19-07-2025,1,468.08
+Twitter,Campaign_16,68,user_2239,Omega-3,26-01-2025,4,499.64
+Twitter,Campaign_7,98,user_4794,Omega-3,08-07-2025,2,374.81
+Instagram,Campaign_19,10,user_573,Omega-3,27-06-2025,4,355.25
+Twitter,Campaign_5,6,user_4559,Omega-3,31-03-2025,2,313.01
+Twitter,Campaign_11,36,user_2807,Omega-3,26-03-2025,3,138.05
+Instagram,Campaign_11,9,user_2799,Multivitamin,24-03-2025,5,177.66
+Twitter,Campaign_5,77,user_17,Kids Shake,18-07-2025,1,342.9
+Instagram,Campaign_14,10,user_4554,Kids Shake,10-04-2025,5,58.95
+YouTube,Campaign_3,27,user_4413,Protein Powder,29-01-2025,4,342.68
+Twitter,Campaign_12,14,user_3084,Omega-3,11-04-2025,2,422.79
+YouTube,Campaign_1,73,user_1023,Kids Shake,16-04-2025,2,233.4
+YouTube,Campaign_8,78,user_163,Omega-3,26-01-2025,3,111.93
+Twitter,Campaign_20,89,user_2484,Multivitamin,21-05-2025,4,484.3
+Twitter,Campaign_2,19,user_2300,Kids Shake,14-02-2025,2,23.42
+Instagram,Campaign_13,100,user_909,Omega-3,24-02-2025,5,257.13
+Instagram,Campaign_18,66,user_1588,Multivitamin,03-07-2025,5,81.56
+Instagram,Campaign_3,13,user_1044,Omega-3,24-02-2025,2,442.88
+Twitter,Campaign_9,63,user_1572,Protein Powder,23-01-2025,5,314.94
+YouTube,Campaign_18,21,user_3719,Protein Powder,01-04-2025,1,429.85
+Twitter,Campaign_11,64,user_3544,Kids Shake,10-05-2025,1,346.48
+YouTube,Campaign_15,39,user_4060,Omega-3,09-03-2025,1,444.23
+Instagram,Campaign_8,25,user_385,Omega-3,03-04-2025,5,235.45
+YouTube,Campaign_1,4,user_3211,Multivitamin,25-04-2025,1,442.45
+YouTube,Campaign_1,21,user_1849,Kids Shake,30-06-2025,2,114.5
+Instagram,Campaign_11,59,user_2547,Protein Powder,09-02-2025,1,33.38
+Twitter,Campaign_14,80,user_197,Omega-3,16-05-2025,2,71.76
+YouTube,Campaign_8,93,user_2792,Protein Powder,25-04-2025,5,401.17
+Twitter,Campaign_3,38,user_4915,Kids Shake,25-06-2025,4,297.89
+YouTube,Campaign_3,17,user_498,Protein Powder,14-04-2025,3,447.24
+Instagram,Campaign_3,58,user_1045,Protein Powder,28-03-2025,1,164.71
+Twitter,Campaign_14,38,user_539,Protein Powder,27-01-2025,1,288.44
+Instagram,Campaign_10,40,user_3125,Kids Shake,25-06-2025,5,380.94
+YouTube,Campaign_8,4,user_4912,Protein Powder,25-03-2025,4,242.82
+Twitter,Campaign_14,77,user_830,Omega-3,03-02-2025,1,237.96
+YouTube,Campaign_11,95,user_4816,Multivitamin,22-06-2025,1,25.9
+Instagram,Campaign_3,31,user_4857,Multivitamin,23-02-2025,2,325.93
+Instagram,Campaign_9,99,user_2912,Kids Shake,18-03-2025,5,233.42
+YouTube,Campaign_8,54,user_1128,Protein Powder,04-07-2025,2,169.6
+Twitter,Campaign_14,79,user_4204,Omega-3,01-05-2025,5,444.91
+YouTube,Campaign_5,27,user_1208,Kids Shake,01-05-2025,5,184.59
+Instagram,Campaign_12,42,user_67,Multivitamin,05-07-2025,2,263.41
+YouTube,Campaign_18,55,user_448,Kids Shake,22-04-2025,2,488.73
+Twitter,Campaign_7,37,user_561,Omega-3,01-06-2025,4,353.5
+Instagram,Campaign_15,30,user_4914,Omega-3,21-02-2025,5,482.27
+Twitter,Campaign_20,1,user_2455,Kids Shake,26-04-2025,2,70.33
+Instagram,Campaign_2,86,user_4063,Multivitamin,19-07-2025,2,352.75
+Instagram,Campaign_15,99,user_1747,Multivitamin,18-03-2025,3,407.49
+YouTube,Campaign_13,83,user_1682,Kids Shake,02-06-2025,1,194.15
+Instagram,Campaign_3,50,user_2932,Protein Powder,27-02-2025,1,88.35
+Instagram,Campaign_15,87,user_1593,Omega-3,08-07-2025,1,115.58
+Instagram,Campaign_10,26,user_1427,Multivitamin,13-05-2025,2,183.11
+Instagram,Campaign_18,9,user_2015,Multivitamin,30-05-2025,1,104.52
+Instagram,Campaign_9,88,user_829,Protein Powder,27-01-2025,2,201.88
+Instagram,Campaign_4,58,user_2773,Multivitamin,02-05-2025,4,135.27
+Instagram,Campaign_12,26,user_1404,Kids Shake,03-07-2025,1,89.33
+Twitter,Campaign_5,38,user_1554,Multivitamin,05-03-2025,4,353.29
+Instagram,Campaign_11,84,user_4912,Kids Shake,07-02-2025,2,462.09
+Twitter,Campaign_20,33,user_4812,Multivitamin,04-03-2025,3,399
+YouTube,Campaign_11,83,user_2025,Protein Powder,08-02-2025,3,438.97
+YouTube,Campaign_17,29,user_4785,Kids Shake,27-05-2025,1,396.64
+YouTube,Campaign_20,27,user_532,Multivitamin,11-03-2025,4,380.63
+Twitter,Campaign_17,80,user_3066,Kids Shake,09-03-2025,4,105.92
+Twitter,Campaign_12,68,user_4305,Kids Shake,15-03-2025,4,148.8
+Instagram,Campaign_13,88,user_4784,Protein Powder,27-05-2025,2,449.54
+Instagram,Campaign_15,86,user_1921,Kids Shake,25-05-2025,3,224.01
+YouTube,Campaign_13,74,user_4681,Multivitamin,15-04-2025,3,284.26
+Twitter,Campaign_5,63,user_689,Omega-3,28-03-2025,5,188.76
+Instagram,Campaign_19,84,user_338,Kids Shake,10-03-2025,5,181.46
+Twitter,Campaign_15,68,user_3831,Kids Shake,06-04-2025,3,406.16
+YouTube,Campaign_11,44,user_2237,Kids Shake,13-07-2025,2,232.01
+Twitter,Campaign_9,3,user_622,Omega-3,28-06-2025,3,424.45
+Instagram,Campaign_17,16,user_4479,Protein Powder,10-05-2025,2,67.24
+Instagram,Campaign_3,49,user_2952,Protein Powder,02-03-2025,2,180.2
+Twitter,Campaign_11,33,user_2049,Omega-3,26-01-2025,3,111.51
+Instagram,Campaign_20,66,user_1130,Omega-3,17-07-2025,3,155.29
+YouTube,Campaign_12,43,user_3309,Kids Shake,21-02-2025,1,246.56
+Twitter,Campaign_17,41,user_1223,Kids Shake,22-05-2025,2,367.2
+Twitter,Campaign_7,36,user_3887,Multivitamin,09-03-2025,5,397.27
+Twitter,Campaign_15,89,user_3780,Omega-3,28-06-2025,3,425.98
+Instagram,Campaign_14,49,user_3422,Multivitamin,29-03-2025,4,429.41
+Instagram,Campaign_1,9,user_3070,Multivitamin,22-02-2025,2,166.67
+Instagram,Campaign_1,87,user_4095,Omega-3,24-04-2025,2,221.19
+Twitter,Campaign_13,89,user_4405,Omega-3,27-04-2025,5,31.16
+YouTube,Campaign_2,17,user_1140,Multivitamin,26-04-2025,5,322.32
+Instagram,Campaign_20,86,user_4980,Kids Shake,13-04-2025,2,475.37
+Instagram,Campaign_3,26,user_4379,Kids Shake,01-06-2025,4,72.15
+YouTube,Campaign_19,51,user_3699,Omega-3,26-06-2025,2,70.07
+YouTube,Campaign_18,54,user_1456,Protein Powder,24-01-2025,5,254.53
+Instagram,Campaign_6,62,user_1631,Protein Powder,12-04-2025,3,118.83
+Instagram,Campaign_10,50,user_4296,Protein Powder,25-03-2025,1,196.95
+Instagram,Campaign_1,30,user_1408,Omega-3,05-04-2025,4,95.38
+Instagram,Campaign_4,59,user_1058,Kids Shake,19-03-2025,1,206.72
+YouTube,Campaign_7,52,user_1065,Multivitamin,01-05-2025,4,412.59
+YouTube,Campaign_16,43,user_1301,Omega-3,19-02-2025,2,261.19
+Instagram,Campaign_15,62,user_2257,Multivitamin,18-07-2025,2,233.95
+Twitter,Campaign_13,85,user_4955,Multivitamin,07-03-2025,3,456.95
+Instagram,Campaign_16,100,user_3770,Kids Shake,22-02-2025,1,373.9
+YouTube,Campaign_10,71,user_3739,Omega-3,21-01-2025,3,207.72
+Twitter,Campaign_6,32,user_3401,Multivitamin,04-06-2025,5,371.96
+YouTube,Campaign_15,4,user_3152,Multivitamin,22-01-2025,5,65.86
+Instagram,Campaign_2,96,user_1964,Multivitamin,10-05-2025,5,160.11
+Twitter,Campaign_3,68,user_1780,Kids Shake,05-04-2025,5,78.19
+Instagram,Campaign_12,50,user_627,Protein Powder,12-03-2025,3,216.85
+YouTube,Campaign_6,61,user_2071,Multivitamin,12-03-2025,1,241.84
+Instagram,Campaign_3,65,user_3784,Kids Shake,23-04-2025,4,430.77
+Twitter,Campaign_13,85,user_310,Protein Powder,16-05-2025,1,360.37
+YouTube,Campaign_5,75,user_2680,Kids Shake,17-03-2025,4,52.75
+Twitter,Campaign_18,19,user_1985,Kids Shake,14-06-2025,4,413.8
+Twitter,Campaign_6,48,user_1398,Protein Powder,14-02-2025,1,105.07
+Twitter,Campaign_4,23,user_4380,Kids Shake,06-06-2025,1,342.27
+Instagram,Campaign_1,87,user_2239,Multivitamin,29-03-2025,3,105.41
+Instagram,Campaign_2,87,user_4361,Multivitamin,28-03-2025,1,421.52
+YouTube,Campaign_17,4,user_843,Kids Shake,24-01-2025,3,233.11
+Twitter,Campaign_20,36,user_39,Protein Powder,14-04-2025,2,465.83
+Instagram,Campaign_12,50,user_1955,Multivitamin,26-06-2025,1,222.41
+Instagram,Campaign_1,40,user_2762,Multivitamin,26-01-2025,1,125.87
+Instagram,Campaign_4,99,user_1376,Multivitamin,08-07-2025,4,266
+Instagram,Campaign_11,16,user_2644,Multivitamin,10-02-2025,2,468.48
+Instagram,Campaign_13,25,user_3506,Protein Powder,21-05-2025,2,70.82
+Twitter,Campaign_11,37,user_1423,Protein Powder,08-04-2025,3,25.75
+Instagram,Campaign_7,13,user_3759,Multivitamin,03-07-2025,3,331.97
+YouTube,Campaign_12,52,user_360,Protein Powder,25-05-2025,4,164.74
+Twitter,Campaign_20,33,user_4093,Protein Powder,04-03-2025,5,102.3
+YouTube,Campaign_4,51,user_4915,Omega-3,08-02-2025,4,345.39
+Instagram,Campaign_5,84,user_2721,Multivitamin,07-02-2025,3,489.45
+Twitter,Campaign_16,45,user_554,Omega-3,15-07-2025,5,457.81
+Instagram,Campaign_15,59,user_3133,Multivitamin,13-03-2025,5,358.22
+Instagram,Campaign_1,62,user_1906,Protein Powder,12-02-2025,1,168.25
+Twitter,Campaign_14,56,user_1996,Protein Powder,04-07-2025,2,199.77
+Instagram,Campaign_10,60,user_1655,Multivitamin,14-04-2025,2,328.18
+Twitter,Campaign_8,11,user_4900,Kids Shake,26-04-2025,2,153.5
+YouTube,Campaign_2,69,user_4267,Kids Shake,04-02-2025,3,380.26
+YouTube,Campaign_8,93,user_2714,Omega-3,18-05-2025,2,278.87
+Instagram,Campaign_8,58,user_1823,Kids Shake,08-03-2025,3,108.1
+YouTube,Campaign_1,54,user_530,Kids Shake,02-07-2025,2,45.01
+YouTube,Campaign_5,54,user_1673,Multivitamin,26-06-2025,2,304.46
+Twitter,Campaign_7,41,user_1936,Protein Powder,01-04-2025,4,169.5
+Instagram,Campaign_7,31,user_2007,Kids Shake,04-06-2025,5,139.51
+Instagram,Campaign_10,34,user_4723,Kids Shake,07-02-2025,2,150.49
+YouTube,Campaign_16,17,user_656,Omega-3,09-04-2025,4,100.53
+Instagram,Campaign_15,92,user_3463,Kids Shake,10-06-2025,4,29.51
+Twitter,Campaign_13,85,user_3502,Protein Powder,04-05-2025,5,277.85
+YouTube,Campaign_18,52,user_1440,Omega-3,13-04-2025,4,166.81
+YouTube,Campaign_10,21,user_3074,Kids Shake,01-07-2025,3,85.6
+Twitter,Campaign_16,68,user_1604,Multivitamin,01-06-2025,1,26.16
+YouTube,Campaign_17,78,user_3066,Kids Shake,07-04-2025,4,471.34
+Twitter,Campaign_12,14,user_3147,Kids Shake,02-05-2025,5,54.19
+Twitter,Campaign_2,2,user_1020,Kids Shake,25-02-2025,2,113.23
+Twitter,Campaign_14,23,user_2092,Omega-3,11-03-2025,4,324.79
+YouTube,Campaign_12,4,user_473,Kids Shake,02-04-2025,2,136.33
+Instagram,Campaign_2,13,user_2961,Protein Powder,22-01-2025,2,145.44
+YouTube,Campaign_15,39,user_1208,Omega-3,17-05-2025,5,297.6
+Instagram,Campaign_6,57,user_102,Protein Powder,26-06-2025,4,210.88
+YouTube,Campaign_19,83,user_659,Multivitamin,02-04-2025,2,418.28
+YouTube,Campaign_9,46,user_2476,Kids Shake,19-02-2025,3,372.29
+Instagram,Campaign_3,84,user_896,Omega-3,13-06-2025,3,379.39
+Instagram,Campaign_13,31,user_2524,Protein Powder,06-06-2025,4,20.76
+Instagram,Campaign_3,92,user_3423,Kids Shake,02-02-2025,3,371.86
+Twitter,Campaign_6,1,user_1446,Omega-3,02-06-2025,2,115.05
+YouTube,Campaign_6,61,user_4118,Protein Powder,26-03-2025,5,410.9
+Twitter,Campaign_6,79,user_1647,Protein Powder,03-06-2025,2,144.49
+Instagram,Campaign_14,9,user_3611,Protein Powder,07-02-2025,2,58.31
+Twitter,Campaign_3,7,user_3095,Protein Powder,10-05-2025,1,184.23
+Twitter,Campaign_19,41,user_1924,Kids Shake,17-03-2025,1,24.56
+Instagram,Campaign_9,88,user_60,Protein Powder,25-06-2025,2,270.72
+Twitter,Campaign_1,33,user_3078,Omega-3,17-03-2025,4,383.32
+Twitter,Campaign_20,63,user_3519,Omega-3,16-04-2025,3,499.73
+YouTube,Campaign_8,4,user_2960,Kids Shake,14-04-2025,5,47.48
+Instagram,Campaign_12,57,user_2706,Protein Powder,19-07-2025,4,437.86
+Instagram,Campaign_13,31,user_1138,Protein Powder,15-02-2025,1,437.12
+Instagram,Campaign_9,13,user_2037,Omega-3,26-03-2025,5,349.37
+Instagram,Campaign_16,86,user_4219,Kids Shake,31-01-2025,2,21.5
+Twitter,Campaign_11,56,user_137,Omega-3,08-07-2025,3,345.41
+Instagram,Campaign_8,94,user_4971,Kids Shake,08-04-2025,5,401.1
+Instagram,Campaign_12,88,user_3506,Kids Shake,01-02-2025,1,372.45
+Twitter,Campaign_10,79,user_4974,Multivitamin,13-06-2025,5,440.59
+YouTube,Campaign_17,12,user_261,Multivitamin,14-03-2025,1,164.65
+YouTube,Campaign_18,17,user_3825,Multivitamin,27-03-2025,1,251.44
+YouTube,Campaign_18,61,user_1974,Multivitamin,26-05-2025,2,381.56
+Instagram,Campaign_3,87,user_865,Kids Shake,12-07-2025,2,465.92
+Twitter,Campaign_11,48,user_3142,Omega-3,24-05-2025,3,339.65
+Twitter,Campaign_4,11,user_1113,Kids Shake,26-06-2025,3,438.53
+Twitter,Campaign_19,5,user_4921,Protein Powder,05-02-2025,3,200.96
+Twitter,Campaign_13,56,user_4604,Kids Shake,21-05-2025,2,144.37
+Instagram,Campaign_10,25,user_719,Protein Powder,27-06-2025,3,375.48
+Twitter,Campaign_7,77,user_952,Omega-3,17-06-2025,3,477.95
+Twitter,Campaign_19,90,user_14,Omega-3,04-07-2025,5,277.09
+Twitter,Campaign_13,6,user_3471,Omega-3,17-04-2025,2,269.48
+Twitter,Campaign_20,77,user_4840,Multivitamin,22-06-2025,4,24.41
+YouTube,Campaign_15,27,user_2589,Multivitamin,05-05-2025,2,259.92
+Twitter,Campaign_15,5,user_1208,Omega-3,12-06-2025,1,307.46
+Twitter,Campaign_10,85,user_4116,Protein Powder,10-05-2025,5,249.58
+Instagram,Campaign_7,62,user_4056,Omega-3,14-04-2025,1,490.95
+Twitter,Campaign_11,79,user_1251,Multivitamin,23-05-2025,1,463.12
+YouTube,Campaign_6,12,user_3994,Kids Shake,04-05-2025,2,495.71
+Instagram,Campaign_18,86,user_3214,Omega-3,02-04-2025,4,495.35
+YouTube,Campaign_13,93,user_3204,Protein Powder,06-03-2025,3,155.53
+Instagram,Campaign_7,100,user_4490,Kids Shake,25-06-2025,2,175.24
+YouTube,Campaign_19,95,user_444,Omega-3,24-03-2025,2,297.04
+Twitter,Campaign_15,85,user_3953,Omega-3,12-06-2025,2,124.71
+YouTube,Campaign_7,20,user_75,Omega-3,22-02-2025,1,345.59
+YouTube,Campaign_5,44,user_3085,Kids Shake,27-01-2025,2,464.47
+YouTube,Campaign_4,43,user_2913,Kids Shake,04-06-2025,1,76.33
+Twitter,Campaign_17,8,user_2773,Kids Shake,11-06-2025,4,137.6
+Instagram,Campaign_4,82,user_1974,Kids Shake,16-03-2025,3,350.23
+YouTube,Campaign_6,44,user_3076,Protein Powder,23-03-2025,4,152.1
+Instagram,Campaign_15,88,user_3010,Protein Powder,19-06-2025,1,59.67
+Instagram,Campaign_16,47,user_4176,Multivitamin,14-07-2025,5,295.03
+Instagram,Campaign_19,25,user_3929,Omega-3,23-01-2025,1,401.28
+Instagram,Campaign_6,34,user_3146,Kids Shake,04-02-2025,4,163.21
+YouTube,Campaign_5,21,user_815,Omega-3,03-07-2025,5,108.75
+YouTube,Campaign_1,53,user_3226,Kids Shake,03-07-2025,5,421.83
+YouTube,Campaign_18,4,user_1017,Multivitamin,01-02-2025,1,106.72
+Instagram,Campaign_20,88,user_1475,Protein Powder,27-02-2025,4,404.25
+Instagram,Campaign_4,13,user_321,Multivitamin,22-02-2025,2,333.27
+YouTube,Campaign_3,29,user_4608,Omega-3,11-07-2025,1,490.37
+Instagram,Campaign_17,31,user_2446,Omega-3,02-03-2025,2,223.06
+Twitter,Campaign_1,98,user_2035,Omega-3,08-07-2025,5,454.22
+YouTube,Campaign_10,4,user_4376,Kids Shake,14-06-2025,5,255.41
+Instagram,Campaign_11,92,user_4282,Omega-3,14-02-2025,5,265.08
+Twitter,Campaign_4,18,user_367,Multivitamin,10-07-2025,2,88
+Twitter,Campaign_7,70,user_1100,Multivitamin,18-02-2025,3,153.15
+Instagram,Campaign_20,9,user_3458,Protein Powder,01-03-2025,3,145.12
+YouTube,Campaign_6,73,user_3278,Kids Shake,28-06-2025,3,344.73
+YouTube,Campaign_5,53,user_4391,Multivitamin,01-07-2025,3,497.77
+Instagram,Campaign_7,57,user_3049,Multivitamin,03-04-2025,2,171.85
+YouTube,Campaign_14,73,user_3105,Protein Powder,15-02-2025,2,57.21
+Twitter,Campaign_4,56,user_4354,Protein Powder,25-01-2025,5,215.26
+YouTube,Campaign_11,39,user_729,Omega-3,25-04-2025,3,90.24
+YouTube,Campaign_8,83,user_2242,Protein Powder,24-06-2025,4,490.15
+YouTube,Campaign_8,73,user_3102,Protein Powder,18-06-2025,2,272.71
+Twitter,Campaign_10,64,user_4824,Kids Shake,25-06-2025,5,187.47
+Instagram,Campaign_19,86,user_2311,Omega-3,14-02-2025,1,450.35
+Instagram,Campaign_6,50,user_2606,Kids Shake,03-06-2025,3,406.92
+Instagram,Campaign_18,40,user_4520,Kids Shake,19-03-2025,5,81.23
+Twitter,Campaign_1,32,user_4208,Multivitamin,01-02-2025,2,88.48
+Twitter,Campaign_19,19,user_2191,Protein Powder,06-02-2025,3,359.6
+Twitter,Campaign_8,2,user_4987,Kids Shake,24-03-2025,2,230.7
+Instagram,Campaign_12,34,user_3840,Omega-3,10-05-2025,4,269.89
+Instagram,Campaign_8,86,user_2501,Protein Powder,02-05-2025,4,389.88
+Instagram,Campaign_3,60,user_652,Protein Powder,19-05-2025,1,99.25
+YouTube,Campaign_2,43,user_693,Omega-3,28-02-2025,4,408.01
+Twitter,Campaign_1,8,user_3474,Multivitamin,19-03-2025,4,267.21
+Twitter,Campaign_18,37,user_1022,Kids Shake,16-07-2025,5,111.29
+Instagram,Campaign_1,86,user_3482,Omega-3,18-05-2025,5,348.36
+Instagram,Campaign_2,99,user_4976,Kids Shake,06-06-2025,5,453.82
+Twitter,Campaign_6,70,user_616,Omega-3,15-06-2025,5,189.58
+Twitter,Campaign_2,3,user_3463,Kids Shake,13-04-2025,2,199.18
+Instagram,Campaign_4,57,user_2769,Multivitamin,03-03-2025,1,159.23
+YouTube,Campaign_16,54,user_2405,Omega-3,26-05-2025,1,374.25
+Twitter,Campaign_19,68,user_3225,Multivitamin,02-05-2025,5,416.35
+Twitter,Campaign_2,8,user_3794,Kids Shake,05-07-2025,3,22.83
+Instagram,Campaign_15,42,user_2692,Omega-3,20-04-2025,1,22.47
+YouTube,Campaign_6,44,user_3294,Omega-3,17-07-2025,1,226.79
+YouTube,Campaign_7,93,user_695,Multivitamin,05-04-2025,1,458.29
+Twitter,Campaign_1,8,user_1275,Omega-3,23-05-2025,4,209.77
+Instagram,Campaign_10,40,user_2986,Kids Shake,03-06-2025,5,409.54
+Twitter,Campaign_4,56,user_3593,Kids Shake,08-06-2025,2,189.79
+YouTube,Campaign_14,46,user_48,Omega-3,30-05-2025,1,110.99
+Instagram,Campaign_2,60,user_1096,Kids Shake,03-04-2025,3,452.48
+Twitter,Campaign_6,68,user_1631,Kids Shake,30-01-2025,3,77.02
+YouTube,Campaign_16,97,user_4507,Kids Shake,26-01-2025,2,175.95
+YouTube,Campaign_13,81,user_4112,Kids Shake,16-06-2025,1,479.69
+Instagram,Campaign_1,62,user_1034,Multivitamin,22-04-2025,5,26.55
+Twitter,Campaign_8,22,user_427,Omega-3,01-04-2025,5,373.97
+Instagram,Campaign_14,65,user_3934,Omega-3,08-05-2025,4,59.66
+Twitter,Campaign_14,37,user_2030,Multivitamin,11-03-2025,2,139.74
+Twitter,Campaign_4,63,user_2159,Multivitamin,30-01-2025,4,115.24
+Instagram,Campaign_4,47,user_4116,Multivitamin,01-06-2025,5,321.88
+Instagram,Campaign_5,40,user_1880,Protein Powder,16-06-2025,4,38.42
+YouTube,Campaign_7,53,user_1198,Kids Shake,15-07-2025,5,115.83
+Instagram,Campaign_2,100,user_3116,Kids Shake,07-03-2025,3,356.08
+Twitter,Campaign_8,98,user_1817,Omega-3,01-04-2025,4,49.45
+Twitter,Campaign_14,6,user_424,Omega-3,21-06-2025,3,194.52
+Instagram,Campaign_12,25,user_3425,Multivitamin,29-04-2025,1,107.24
+Twitter,Campaign_1,90,user_428,Omega-3,26-05-2025,3,246.59
+Instagram,Campaign_20,25,user_826,Kids Shake,02-06-2025,3,475.2
+YouTube,Campaign_12,93,user_2739,Omega-3,21-06-2025,1,341.09
+Twitter,Campaign_18,19,user_1068,Omega-3,18-04-2025,3,376.61
+Instagram,Campaign_19,65,user_4333,Omega-3,20-05-2025,3,120.82
+YouTube,Campaign_13,46,user_715,Protein Powder,16-06-2025,5,77.77
+YouTube,Campaign_19,54,user_1561,Multivitamin,27-03-2025,1,55.94
+Instagram,Campaign_18,49,user_2810,Omega-3,20-03-2025,2,276.11
+YouTube,Campaign_5,17,user_359,Multivitamin,31-05-2025,4,284.24
+YouTube,Campaign_9,27,user_4591,Omega-3,17-04-2025,4,322.34
+Twitter,Campaign_4,11,user_3573,Protein Powder,18-03-2025,4,271.41
+YouTube,Campaign_17,27,user_180,Multivitamin,16-02-2025,3,354.42
+Instagram,Campaign_5,87,user_2373,Protein Powder,25-02-2025,1,401.31
+Twitter,Campaign_7,38,user_3257,Kids Shake,25-01-2025,5,437.72
+Twitter,Campaign_3,41,user_1356,Kids Shake,11-03-2025,4,290
+Twitter,Campaign_13,1,user_3284,Omega-3,28-05-2025,2,21.73
+YouTube,Campaign_19,73,user_1785,Protein Powder,10-03-2025,4,261.83
+Instagram,Campaign_17,87,user_2121,Omega-3,24-05-2025,3,359.96
+Twitter,Campaign_18,90,user_976,Multivitamin,23-05-2025,1,276.11
+Instagram,Campaign_10,34,user_321,Multivitamin,09-05-2025,2,149.81
+Twitter,Campaign_2,32,user_2040,Multivitamin,05-03-2025,1,20.67
+Instagram,Campaign_12,50,user_4958,Omega-3,27-04-2025,1,474.29
+Twitter,Campaign_18,89,user_2164,Multivitamin,06-04-2025,5,161.55
+Instagram,Campaign_2,86,user_86,Omega-3,24-05-2025,3,104.83
+Twitter,Campaign_1,80,user_4403,Protein Powder,24-01-2025,4,473.92
+Instagram,Campaign_9,15,user_4951,Multivitamin,28-03-2025,2,175.65
+Twitter,Campaign_7,98,user_4765,Kids Shake,10-06-2025,4,131.23
+Instagram,Campaign_14,31,user_3020,Multivitamin,19-03-2025,1,258.06
+YouTube,Campaign_15,71,user_1516,Multivitamin,01-06-2025,5,255.45
+Instagram,Campaign_6,26,user_2311,Protein Powder,01-05-2025,2,444.92
+YouTube,Campaign_13,17,user_4980,Multivitamin,02-07-2025,2,54.58
+Twitter,Campaign_8,68,user_3728,Kids Shake,24-06-2025,5,85.9
+YouTube,Campaign_1,4,user_4943,Protein Powder,14-04-2025,4,29.94
+YouTube,Campaign_1,29,user_359,Multivitamin,17-05-2025,1,148.48
+Instagram,Campaign_20,30,user_111,Protein Powder,22-06-2025,5,373.34
+Twitter,Campaign_11,56,user_697,Multivitamin,14-06-2025,4,384.64
+YouTube,Campaign_15,73,user_1337,Omega-3,26-04-2025,4,94.17
+YouTube,Campaign_2,73,user_4453,Omega-3,09-02-2025,5,79.08
+Instagram,Campaign_2,96,user_843,Omega-3,23-06-2025,5,445.5
+Instagram,Campaign_14,99,user_1162,Protein Powder,23-05-2025,1,128.8
+Twitter,Campaign_13,98,user_1208,Omega-3,02-02-2025,3,128.42
+Instagram,Campaign_13,65,user_921,Kids Shake,06-06-2025,1,127.77
+Instagram,Campaign_10,84,user_2928,Protein Powder,12-02-2025,3,76.81
+YouTube,Campaign_3,61,user_356,Multivitamin,04-06-2025,4,274.63
+Instagram,Campaign_20,30,user_1486,Kids Shake,11-06-2025,3,319.88
+Instagram,Campaign_10,92,user_2854,Protein Powder,11-05-2025,4,337.63
+Twitter,Campaign_9,98,user_626,Protein Powder,11-06-2025,2,173.72
+Instagram,Campaign_13,10,user_3660,Kids Shake,02-07-2025,1,297.36
+Twitter,Campaign_9,48,user_1186,Protein Powder,28-04-2025,2,107.3
+Twitter,Campaign_13,33,user_2889,Omega-3,15-03-2025,4,251.02
+Twitter,Campaign_14,98,user_4930,Omega-3,14-06-2025,2,203.93
+Twitter,Campaign_18,5,user_4073,Kids Shake,05-03-2025,5,414.27
+Instagram,Campaign_13,28,user_685,Kids Shake,07-03-2025,5,392.76
+Instagram,Campaign_8,66,user_715,Multivitamin,18-04-2025,1,117.57
+YouTube,Campaign_1,97,user_2969,Kids Shake,15-06-2025,1,48.6
+Instagram,Campaign_12,96,user_2957,Multivitamin,05-05-2025,4,89.19
+Twitter,Campaign_18,85,user_3450,Multivitamin,27-05-2025,2,46.82
+YouTube,Campaign_5,21,user_961,Multivitamin,14-04-2025,1,354.14
+YouTube,Campaign_14,78,user_3045,Protein Powder,21-01-2025,1,338.12
+Instagram,Campaign_3,88,user_3907,Multivitamin,12-07-2025,2,195.32
+YouTube,Campaign_3,83,user_2008,Protein Powder,16-07-2025,5,418.91
+Instagram,Campaign_14,92,user_1227,Multivitamin,21-03-2025,2,379.09
+YouTube,Campaign_10,78,user_3852,Kids Shake,24-04-2025,4,395.07
+YouTube,Campaign_1,75,user_2350,Protein Powder,10-06-2025,1,442.96
+Twitter,Campaign_2,33,user_4950,Multivitamin,13-03-2025,2,25.22
+YouTube,Campaign_14,52,user_3722,Omega-3,23-02-2025,5,166.9
+Instagram,Campaign_8,60,user_3471,Multivitamin,11-05-2025,1,270.32
+Twitter,Campaign_5,48,user_1736,Kids Shake,11-02-2025,1,125.08
+Twitter,Campaign_6,79,user_4582,Protein Powder,23-01-2025,4,249.16
+Twitter,Campaign_13,80,user_3117,Multivitamin,06-07-2025,3,330.39
+Instagram,Campaign_7,35,user_2212,Protein Powder,23-06-2025,1,194.1
+Twitter,Campaign_11,32,user_230,Multivitamin,08-05-2025,2,279.95
+YouTube,Campaign_3,73,user_1736,Protein Powder,01-05-2025,2,284.81
+Instagram,Campaign_2,99,user_1969,Omega-3,28-06-2025,5,291.1
+Twitter,Campaign_19,22,user_3964,Protein Powder,07-07-2025,3,64.74
+YouTube,Campaign_10,75,user_70,Omega-3,08-05-2025,4,260.1
+Instagram,Campaign_11,57,user_3201,Omega-3,16-06-2025,1,179.03
+Instagram,Campaign_17,57,user_828,Multivitamin,13-07-2025,5,402.11
+Instagram,Campaign_16,10,user_4804,Protein Powder,06-05-2025,2,92.74
+YouTube,Campaign_15,75,user_646,Protein Powder,21-05-2025,2,407.59
+Instagram,Campaign_5,34,user_1320,Omega-3,27-03-2025,2,182.73
+YouTube,Campaign_12,20,user_3530,Protein Powder,26-01-2025,4,134.77
+YouTube,Campaign_20,46,user_4972,Protein Powder,10-06-2025,5,321.34
+YouTube,Campaign_16,4,user_798,Protein Powder,13-06-2025,3,282.63
+YouTube,Campaign_3,54,user_4088,Protein Powder,25-03-2025,3,101.46
+YouTube,Campaign_10,27,user_1323,Protein Powder,09-05-2025,5,194.4
+Instagram,Campaign_3,9,user_583,Multivitamin,24-03-2025,3,493.35
+Instagram,Campaign_9,49,user_3622,Multivitamin,18-06-2025,5,254.36
+Instagram,Campaign_12,57,user_2349,Kids Shake,06-04-2025,5,460.23
+Twitter,Campaign_5,64,user_3612,Omega-3,10-03-2025,5,476.98
+Twitter,Campaign_12,79,user_684,Kids Shake,12-03-2025,4,146.16
+YouTube,Campaign_2,12,user_468,Multivitamin,21-01-2025,5,23.81
+YouTube,Campaign_4,54,user_2382,Kids Shake,09-06-2025,5,211.65
+Twitter,Campaign_3,41,user_1828,Kids Shake,23-03-2025,1,187.49
+YouTube,Campaign_15,71,user_4384,Kids Shake,22-06-2025,1,106.53
+YouTube,Campaign_4,43,user_3252,Kids Shake,29-05-2025,4,177.79
+Twitter,Campaign_11,68,user_2806,Kids Shake,26-05-2025,4,74.88
+Instagram,Campaign_15,62,user_314,Multivitamin,21-03-2025,2,327.3
+Instagram,Campaign_11,34,user_4655,Protein Powder,16-02-2025,4,49.95
+Instagram,Campaign_12,25,user_3524,Kids Shake,26-05-2025,1,121.52
+Instagram,Campaign_1,31,user_3465,Omega-3,16-05-2025,2,60.12
+Twitter,Campaign_3,11,user_2244,Kids Shake,29-06-2025,3,439.41
+Twitter,Campaign_15,18,user_3439,Multivitamin,29-01-2025,3,108.36
+YouTube,Campaign_2,78,user_758,Kids Shake,23-04-2025,3,98.98
+Instagram,Campaign_12,82,user_3434,Kids Shake,20-03-2025,5,350.64
+Instagram,Campaign_6,99,user_3579,Omega-3,23-01-2025,5,206.79
+Twitter,Campaign_1,22,user_4595,Multivitamin,30-06-2025,5,315.93
+Twitter,Campaign_11,32,user_2593,Protein Powder,11-06-2025,4,468.23
+Twitter,Campaign_16,22,user_2593,Protein Powder,28-01-2025,4,146.15
+Instagram,Campaign_1,49,user_3691,Multivitamin,07-02-2025,4,326.68
+YouTube,Campaign_19,69,user_799,Protein Powder,25-05-2025,2,221.68
+YouTube,Campaign_18,74,user_1361,Kids Shake,25-05-2025,3,120.69
+YouTube,Campaign_7,12,user_4726,Protein Powder,16-04-2025,3,27.77
+YouTube,Campaign_10,95,user_4114,Protein Powder,21-01-2025,4,331.48
+YouTube,Campaign_15,21,user_3392,Kids Shake,20-04-2025,3,417.53
+Instagram,Campaign_14,47,user_4286,Omega-3,20-06-2025,2,240.24
+YouTube,Campaign_12,69,user_1450,Multivitamin,03-03-2025,4,203.15
+YouTube,Campaign_14,20,user_2321,Protein Powder,27-06-2025,1,63.03
+Twitter,Campaign_1,18,user_3370,Protein Powder,14-03-2025,5,465.07
+Twitter,Campaign_4,67,user_3639,Protein Powder,30-01-2025,3,428.82
+Instagram,Campaign_7,30,user_1826,Kids Shake,28-02-2025,4,74.96
+Instagram,Campaign_16,92,user_1020,Omega-3,23-03-2025,4,455.84
+Instagram,Campaign_13,47,user_63,Omega-3,23-05-2025,5,156.13
+Instagram,Campaign_9,100,user_2519,Kids Shake,28-01-2025,2,22
+YouTube,Campaign_14,74,user_268,Protein Powder,13-07-2025,2,399.44
+Instagram,Campaign_17,40,user_4915,Omega-3,25-04-2025,2,480.4
+Instagram,Campaign_14,88,user_1982,Kids Shake,31-05-2025,5,329.33
+Instagram,Campaign_2,15,user_4734,Kids Shake,17-06-2025,4,489.13
+Twitter,Campaign_6,33,user_3303,Omega-3,09-03-2025,2,229.95
+Instagram,Campaign_4,99,user_1035,Protein Powder,08-02-2025,5,396.46
+YouTube,Campaign_9,55,user_4530,Multivitamin,28-04-2025,2,64.76
+Instagram,Campaign_1,26,user_3584,Protein Powder,09-02-2025,5,93.46
+Twitter,Campaign_20,1,user_4454,Protein Powder,23-02-2025,4,32.14
+Twitter,Campaign_5,38,user_3717,Omega-3,02-06-2025,2,333.21
+Twitter,Campaign_8,37,user_2433,Multivitamin,04-03-2025,2,368.63
+Instagram,Campaign_13,16,user_2134,Protein Powder,10-05-2025,1,468.79
+Instagram,Campaign_1,65,user_4747,Protein Powder,21-06-2025,4,465.06
+Twitter,Campaign_4,32,user_878,Multivitamin,08-05-2025,3,449.41
+Instagram,Campaign_3,31,user_634,Kids Shake,18-04-2025,2,207.58
+Instagram,Campaign_16,30,user_180,Kids Shake,01-07-2025,4,480.42
+YouTube,Campaign_3,4,user_1723,Kids Shake,14-04-2025,3,324.1
+YouTube,Campaign_15,93,user_1320,Multivitamin,04-05-2025,1,453.75
+Instagram,Campaign_19,49,user_4970,Protein Powder,19-06-2025,3,496.99
+Instagram,Campaign_16,47,user_4916,Protein Powder,09-06-2025,5,376.01
+Instagram,Campaign_4,57,user_1580,Protein Powder,04-03-2025,1,268.64
+YouTube,Campaign_5,69,user_1772,Omega-3,20-06-2025,2,34.16
+Twitter,Campaign_5,67,user_1801,Protein Powder,23-01-2025,2,148.44
+Twitter,Campaign_16,6,user_1633,Protein Powder,21-04-2025,5,332.92
+Twitter,Campaign_15,45,user_4062,Kids Shake,10-03-2025,4,462.73
+Twitter,Campaign_9,1,user_1417,Multivitamin,25-01-2025,3,481.7
+Instagram,Campaign_4,28,user_4782,Omega-3,07-06-2025,2,477.81
+Twitter,Campaign_16,32,user_3551,Kids Shake,02-04-2025,5,378.6
+YouTube,Campaign_11,95,user_882,Kids Shake,01-04-2025,2,292.23
+Twitter,Campaign_12,79,user_527,Kids Shake,07-06-2025,1,479.89
+Instagram,Campaign_9,66,user_4808,Kids Shake,05-05-2025,5,416.81
+Twitter,Campaign_17,5,user_2886,Kids Shake,12-07-2025,1,106.35
+YouTube,Campaign_11,81,user_3518,Multivitamin,19-04-2025,2,54.87
+YouTube,Campaign_12,4,user_3048,Multivitamin,30-04-2025,1,24.62
+Twitter,Campaign_1,89,user_2695,Multivitamin,22-03-2025,5,401.71
+Twitter,Campaign_8,37,user_4601,Protein Powder,12-04-2025,3,308.86
+YouTube,Campaign_17,81,user_1782,Protein Powder,26-02-2025,3,363.81
+Twitter,Campaign_3,90,user_4702,Kids Shake,26-01-2025,4,172.54
+Twitter,Campaign_11,5,user_1624,Multivitamin,07-07-2025,4,259.35
+Twitter,Campaign_9,70,user_3451,Protein Powder,18-06-2025,4,102.15
+YouTube,Campaign_11,39,user_4843,Kids Shake,20-05-2025,5,30.21
+YouTube,Campaign_1,39,user_4717,Protein Powder,23-03-2025,3,82.91
+YouTube,Campaign_13,51,user_304,Protein Powder,24-04-2025,1,53.34
+YouTube,Campaign_4,17,user_3401,Omega-3,10-05-2025,3,381.77
+Instagram,Campaign_13,92,user_654,Omega-3,15-03-2025,5,42.59
+Twitter,Campaign_10,56,user_3724,Kids Shake,05-02-2025,1,424.68
+Instagram,Campaign_20,30,user_842,Protein Powder,23-05-2025,1,416.22
+Twitter,Campaign_5,11,user_862,Omega-3,24-01-2025,4,128.64
+Twitter,Campaign_3,80,user_1566,Omega-3,04-03-2025,1,468.37
+Twitter,Campaign_2,8,user_2128,Protein Powder,21-06-2025,1,474.63
+YouTube,Campaign_3,27,user_2161,Omega-3,24-01-2025,5,399.98
+Instagram,Campaign_13,94,user_2212,Multivitamin,14-06-2025,5,241.13
+YouTube,Campaign_5,81,user_2616,Multivitamin,20-02-2025,4,325.71
+Twitter,Campaign_4,90,user_4275,Multivitamin,22-02-2025,4,337.41
+YouTube,Campaign_9,72,user_2638,Kids Shake,23-05-2025,1,146.63
+Instagram,Campaign_10,31,user_679,Omega-3,27-02-2025,2,336.55
+Instagram,Campaign_7,66,user_640,Protein Powder,15-03-2025,1,121.99
+Instagram,Campaign_7,28,user_3836,Kids Shake,01-06-2025,4,70.18
+Twitter,Campaign_7,64,user_4838,Omega-3,01-05-2025,4,334.54
+Instagram,Campaign_17,49,user_866,Multivitamin,24-05-2025,3,205.08
+YouTube,Campaign_15,29,user_4207,Multivitamin,08-04-2025,2,52.95
+Instagram,Campaign_14,86,user_1346,Omega-3,22-02-2025,1,90.7
+Twitter,Campaign_4,5,user_903,Multivitamin,15-07-2025,4,109.77
+Twitter,Campaign_1,67,user_3902,Kids Shake,20-04-2025,3,76.8
+Instagram,Campaign_18,50,user_689,Omega-3,31-03-2025,2,92.3
+Instagram,Campaign_17,91,user_3530,Omega-3,06-07-2025,4,150.84
+Instagram,Campaign_4,49,user_403,Kids Shake,02-04-2025,2,161.12
+Instagram,Campaign_13,96,user_1448,Omega-3,06-03-2025,5,256.94
+Instagram,Campaign_14,84,user_895,Protein Powder,04-02-2025,2,480.31
+Instagram,Campaign_8,40,user_944,Protein Powder,10-07-2025,5,147.77
+Twitter,Campaign_3,37,user_4360,Protein Powder,10-05-2025,2,443.65
+Twitter,Campaign_13,36,user_3211,Kids Shake,24-06-2025,2,372.28
+Twitter,Campaign_9,22,user_4057,Multivitamin,06-06-2025,2,186.86
+Instagram,Campaign_10,35,user_4885,Omega-3,19-07-2025,1,108.84
+Twitter,Campaign_20,11,user_3906,Omega-3,24-01-2025,2,101.71
+Twitter,Campaign_3,48,user_1366,Multivitamin,25-04-2025,4,88.08
+YouTube,Campaign_1,61,user_3888,Kids Shake,25-04-2025,1,105.21
+Twitter,Campaign_9,67,user_631,Multivitamin,27-01-2025,1,305.12
+YouTube,Campaign_16,71,user_4778,Protein Powder,16-03-2025,2,246.83
+YouTube,Campaign_2,54,user_143,Omega-3,22-05-2025,5,261.51
+Twitter,Campaign_5,79,user_770,Protein Powder,03-05-2025,3,237.26
+Twitter,Campaign_12,98,user_4471,Omega-3,31-01-2025,4,141.7
+Twitter,Campaign_15,45,user_112,Omega-3,03-05-2025,3,447.86
+Twitter,Campaign_20,6,user_3968,Protein Powder,11-05-2025,5,369.54
+Twitter,Campaign_1,1,user_1212,Kids Shake,24-05-2025,2,191.45
+YouTube,Campaign_1,44,user_2002,Kids Shake,18-04-2025,2,377.3
+YouTube,Campaign_7,97,user_3095,Protein Powder,10-05-2025,5,451.63
+YouTube,Campaign_15,69,user_4317,Multivitamin,13-05-2025,3,446.24
+Twitter,Campaign_13,2,user_4827,Kids Shake,10-05-2025,3,111.47
+YouTube,Campaign_19,46,user_4261,Omega-3,13-02-2025,1,228.06
+Instagram,Campaign_15,94,user_4643,Omega-3,07-05-2025,1,485.35
+Instagram,Campaign_16,28,user_1206,Kids Shake,26-01-2025,2,271.13
+Instagram,Campaign_10,58,user_4573,Multivitamin,03-05-2025,4,158.36
+Instagram,Campaign_10,31,user_128,Kids Shake,09-07-2025,2,155.85
+Twitter,Campaign_19,77,user_1012,Protein Powder,16-03-2025,3,22.44
+Instagram,Campaign_12,16,user_6,Protein Powder,16-05-2025,2,188.1
+YouTube,Campaign_10,12,user_4113,Multivitamin,27-06-2025,3,88.47
+YouTube,Campaign_7,97,user_3540,Protein Powder,06-05-2025,2,35.43
+Twitter,Campaign_12,79,user_2038,Kids Shake,02-04-2025,4,484.12
+YouTube,Campaign_4,54,user_2141,Omega-3,17-02-2025,3,103.18
+Instagram,Campaign_14,60,user_2642,Multivitamin,26-01-2025,2,140.01
+Instagram,Campaign_14,88,user_4541,Multivitamin,03-05-2025,3,61.09
+Twitter,Campaign_19,90,user_3778,Multivitamin,14-04-2025,4,66.1
+Twitter,Campaign_17,37,user_3621,Omega-3,13-03-2025,3,244.82
+Twitter,Campaign_14,3,user_3822,Kids Shake,05-04-2025,4,33.28
+Twitter,Campaign_18,18,user_217,Kids Shake,27-06-2025,2,315.3
+YouTube,Campaign_10,61,user_1988,Omega-3,17-06-2025,5,280.77
+Twitter,Campaign_19,98,user_2404,Protein Powder,10-04-2025,2,213.41
+Instagram,Campaign_1,10,user_3792,Kids Shake,06-07-2025,1,46.25
+YouTube,Campaign_4,46,user_2732,Protein Powder,06-05-2025,5,251.1
+Twitter,Campaign_11,32,user_499,Protein Powder,20-02-2025,5,374.89
+Instagram,Campaign_2,66,user_1680,Multivitamin,26-02-2025,4,85.47
+Instagram,Campaign_5,62,user_2465,Omega-3,18-07-2025,4,319.36
+Twitter,Campaign_7,67,user_940,Protein Powder,19-07-2025,2,309.82
+Instagram,Campaign_4,34,user_4259,Protein Powder,17-05-2025,2,69.73
+Twitter,Campaign_1,36,user_4144,Kids Shake,10-04-2025,1,464.5
+Twitter,Campaign_10,8,user_3315,Kids Shake,02-06-2025,2,424.03
+YouTube,Campaign_18,61,user_2133,Kids Shake,01-02-2025,5,79.13
+Twitter,Campaign_5,38,user_178,Multivitamin,13-06-2025,2,101.97
+Instagram,Campaign_18,66,user_1642,Kids Shake,19-03-2025,3,158.94
+YouTube,Campaign_4,24,user_4824,Kids Shake,16-04-2025,3,207.77
+YouTube,Campaign_4,4,user_3801,Kids Shake,02-04-2025,2,33.43
+Instagram,Campaign_15,57,user_985,Kids Shake,17-07-2025,5,165.33
+Instagram,Campaign_20,10,user_3642,Protein Powder,20-04-2025,2,244.6
+Twitter,Campaign_15,45,user_2269,Protein Powder,09-06-2025,3,260.31
+Instagram,Campaign_17,88,user_1727,Omega-3,07-03-2025,4,266.26
+Instagram,Campaign_6,16,user_1241,Omega-3,02-02-2025,5,182.86
+YouTube,Campaign_5,12,user_2281,Omega-3,10-04-2025,1,459.76
+YouTube,Campaign_16,83,user_3085,Kids Shake,14-02-2025,2,296.5
+Instagram,Campaign_17,59,user_4305,Omega-3,16-06-2025,3,302.65
+Twitter,Campaign_19,36,user_2852,Kids Shake,02-07-2025,1,34.17
+Twitter,Campaign_6,11,user_1899,Protein Powder,30-01-2025,1,259.73
+YouTube,Campaign_16,12,user_2652,Multivitamin,20-05-2025,1,451.9
+Instagram,Campaign_6,34,user_3147,Kids Shake,03-07-2025,1,313.71
+Instagram,Campaign_4,9,user_307,Protein Powder,28-03-2025,3,311.14
+Instagram,Campaign_1,62,user_1426,Omega-3,22-06-2025,4,201.26
+Instagram,Campaign_19,30,user_4559,Multivitamin,30-05-2025,3,255.73
+Instagram,Campaign_10,96,user_1848,Multivitamin,08-06-2025,4,410.64
+Twitter,Campaign_7,90,user_705,Protein Powder,08-02-2025,1,117.7
+YouTube,Campaign_5,73,user_43,Omega-3,06-04-2025,5,282.36
+Instagram,Campaign_3,60,user_2792,Multivitamin,26-01-2025,5,258.16
+Twitter,Campaign_7,85,user_4673,Kids Shake,13-03-2025,3,191.11
+Twitter,Campaign_18,36,user_1130,Protein Powder,29-03-2025,4,320.23
+Twitter,Campaign_3,79,user_4663,Protein Powder,17-06-2025,5,163.15
+Twitter,Campaign_4,41,user_4086,Multivitamin,06-07-2025,5,279.46
+Instagram,Campaign_1,94,user_1836,Omega-3,16-05-2025,4,357.57
+Instagram,Campaign_3,40,user_1294,Omega-3,30-06-2025,5,296.17
+Instagram,Campaign_17,87,user_4097,Omega-3,08-04-2025,5,47.19
+Instagram,Campaign_4,86,user_4775,Kids Shake,13-05-2025,1,35.49
+Instagram,Campaign_14,59,user_2138,Multivitamin,25-04-2025,1,86.86
+Instagram,Campaign_18,13,user_2701,Protein Powder,20-05-2025,4,55
+YouTube,Campaign_19,81,user_4998,Protein Powder,22-04-2025,1,475.96
+Twitter,Campaign_20,37,user_661,Kids Shake,16-06-2025,3,367.2
+Twitter,Campaign_4,90,user_292,Kids Shake,12-03-2025,2,332.16
+Twitter,Campaign_14,14,user_3913,Omega-3,22-05-2025,1,467
+Instagram,Campaign_1,87,user_1608,Kids Shake,26-01-2025,1,285.2
+Twitter,Campaign_2,32,user_3172,Kids Shake,22-01-2025,2,226.26
+Instagram,Campaign_14,25,user_4502,Multivitamin,20-06-2025,4,76.64
+Twitter,Campaign_20,2,user_3013,Omega-3,31-05-2025,3,229.53
+Instagram,Campaign_2,100,user_1952,Multivitamin,26-06-2025,5,24.82
+Twitter,Campaign_14,23,user_4393,Protein Powder,16-07-2025,2,410.06
+YouTube,Campaign_3,29,user_465,Multivitamin,29-03-2025,2,155.65
+Instagram,Campaign_11,84,user_2865,Multivitamin,06-05-2025,2,310.94
+YouTube,Campaign_16,17,user_1003,Protein Powder,30-06-2025,3,470.42
+Instagram,Campaign_7,42,user_4055,Omega-3,24-05-2025,4,362.3
+Instagram,Campaign_12,84,user_4518,Omega-3,02-02-2025,2,272.89
+Twitter,Campaign_9,68,user_2613,Protein Powder,06-07-2025,3,452.2
+Instagram,Campaign_20,86,user_3984,Omega-3,29-06-2025,2,457.78
+Instagram,Campaign_17,76,user_1889,Omega-3,28-02-2025,2,78.92
+YouTube,Campaign_5,81,user_294,Multivitamin,22-01-2025,4,331.96
+Twitter,Campaign_15,6,user_936,Protein Powder,14-03-2025,1,149.74
+YouTube,Campaign_19,73,user_3148,Omega-3,28-06-2025,1,153.96
+Instagram,Campaign_20,50,user_3146,Kids Shake,15-07-2025,4,204.64
+Twitter,Campaign_2,1,user_1839,Multivitamin,13-04-2025,2,336.76
+YouTube,Campaign_18,73,user_429,Omega-3,11-07-2025,5,386.24
+YouTube,Campaign_1,55,user_4987,Omega-3,13-05-2025,5,123.94
+Instagram,Campaign_1,40,user_2794,Kids Shake,01-04-2025,1,407.55
+Twitter,Campaign_18,48,user_3180,Omega-3,05-03-2025,4,223.44
+Twitter,Campaign_19,56,user_4251,Omega-3,08-06-2025,4,244.32
+Instagram,Campaign_8,58,user_1081,Protein Powder,09-05-2025,3,61.06
+Twitter,Campaign_8,67,user_4447,Omega-3,24-04-2025,5,209.41
+YouTube,Campaign_20,43,user_2247,Omega-3,12-05-2025,3,395.56
+YouTube,Campaign_20,83,user_102,Protein Powder,02-05-2025,5,337.17
+Twitter,Campaign_9,11,user_1465,Kids Shake,23-03-2025,1,231.16
+Instagram,Campaign_15,82,user_304,Omega-3,19-03-2025,5,124.56
+Twitter,Campaign_2,67,user_4748,Protein Powder,10-05-2025,5,284.69
+Twitter,Campaign_3,37,user_3609,Multivitamin,14-05-2025,3,144.58
+Instagram,Campaign_16,13,user_1043,Multivitamin,08-02-2025,2,90.51
+Instagram,Campaign_20,26,user_407,Multivitamin,20-06-2025,1,108.44
+YouTube,Campaign_17,75,user_3608,Omega-3,09-07-2025,5,364.33
+YouTube,Campaign_2,51,user_2123,Omega-3,15-07-2025,3,279.41
+Instagram,Campaign_2,50,user_4920,Multivitamin,21-04-2025,1,57.19
+Twitter,Campaign_15,67,user_928,Protein Powder,20-05-2025,2,176.38
+Instagram,Campaign_12,100,user_3408,Protein Powder,05-02-2025,4,440.41
+Instagram,Campaign_5,25,user_203,Omega-3,14-02-2025,3,180.79
+Instagram,Campaign_14,34,user_3070,Kids Shake,05-05-2025,5,34.96
+YouTube,Campaign_12,17,user_366,Omega-3,11-06-2025,5,32.26
+Instagram,Campaign_20,9,user_1733,Omega-3,11-03-2025,5,396.06
+Instagram,Campaign_12,15,user_1761,Kids Shake,20-02-2025,1,335.39
+YouTube,Campaign_5,51,user_3122,Protein Powder,30-06-2025,2,291.39
+Twitter,Campaign_19,11,user_4492,Kids Shake,04-03-2025,1,426.85
+YouTube,Campaign_17,61,user_422,Kids Shake,01-02-2025,5,269.76
+Instagram,Campaign_11,50,user_2206,Multivitamin,22-02-2025,3,457.31
+Twitter,Campaign_11,11,user_1992,Omega-3,21-05-2025,4,171.11
+Instagram,Campaign_4,34,user_1975,Kids Shake,06-04-2025,3,58.25
+Twitter,Campaign_18,70,user_4143,Protein Powder,18-04-2025,4,310.5
+YouTube,Campaign_15,44,user_3432,Multivitamin,24-02-2025,2,464.34
+Instagram,Campaign_8,62,user_3340,Multivitamin,14-02-2025,3,402.01
+Instagram,Campaign_11,65,user_2572,Protein Powder,29-06-2025,4,222.09
+Instagram,Campaign_5,99,user_4719,Kids Shake,08-02-2025,2,451.94
+Twitter,Campaign_15,64,user_128,Multivitamin,19-06-2025,4,146.42
+YouTube,Campaign_18,71,user_3850,Protein Powder,17-06-2025,1,420.25
+Twitter,Campaign_1,2,user_1368,Protein Powder,16-06-2025,5,436.1
+Twitter,Campaign_13,77,user_3460,Omega-3,17-06-2025,4,354.53
+Twitter,Campaign_8,45,user_2404,Protein Powder,24-04-2025,3,303.91
+YouTube,Campaign_20,44,user_883,Protein Powder,01-07-2025,3,475.96
+Twitter,Campaign_14,70,user_3685,Kids Shake,06-05-2025,4,356.05
+YouTube,Campaign_6,54,user_4830,Protein Powder,11-06-2025,1,304.91
+Instagram,Campaign_12,100,user_3716,Kids Shake,28-04-2025,4,104.83
+Twitter,Campaign_19,6,user_2289,Protein Powder,21-05-2025,3,256.78
+Twitter,Campaign_2,48,user_4622,Kids Shake,07-05-2025,3,204.35
+YouTube,Campaign_6,29,user_1174,Protein Powder,27-05-2025,4,269.18
+Instagram,Campaign_19,9,user_2576,Protein Powder,22-04-2025,3,99.48
+Instagram,Campaign_10,76,user_2244,Kids Shake,29-03-2025,2,444.97
+Twitter,Campaign_10,1,user_2126,Protein Powder,21-05-2025,3,87.68
+Twitter,Campaign_7,45,user_4524,Multivitamin,12-07-2025,5,453.22
+Instagram,Campaign_18,87,user_4407,Multivitamin,18-07-2025,4,419.6
+YouTube,Campaign_1,44,user_3028,Multivitamin,08-05-2025,5,224.72
+YouTube,Campaign_15,97,user_4268,Multivitamin,25-03-2025,3,460.64
+Twitter,Campaign_4,89,user_3641,Kids Shake,15-03-2025,3,61.69
+Instagram,Campaign_5,47,user_2282,Protein Powder,20-04-2025,1,377.25
+Twitter,Campaign_8,3,user_610,Omega-3,09-06-2025,5,180.96
+YouTube,Campaign_15,44,user_4202,Protein Powder,24-01-2025,3,448.29
+Instagram,Campaign_2,88,user_3551,Protein Powder,08-03-2025,3,111.39
+YouTube,Campaign_18,12,user_292,Protein Powder,18-05-2025,2,301.44
+Instagram,Campaign_8,42,user_1603,Omega-3,21-03-2025,2,252.56
+Twitter,Campaign_6,77,user_4070,Omega-3,16-06-2025,2,324.69
+Instagram,Campaign_3,13,user_4230,Multivitamin,19-07-2025,4,52.29
+Twitter,Campaign_18,23,user_1709,Multivitamin,10-07-2025,4,350.23
+Twitter,Campaign_20,98,user_3116,Multivitamin,06-02-2025,3,252.43
+YouTube,Campaign_6,72,user_2459,Multivitamin,06-05-2025,4,255.31
+Twitter,Campaign_13,85,user_4898,Omega-3,02-03-2025,4,161.8
+Twitter,Campaign_8,1,user_921,Omega-3,03-04-2025,4,176.19
+YouTube,Campaign_14,81,user_949,Multivitamin,23-03-2025,3,337.09
+YouTube,Campaign_12,44,user_3262,Multivitamin,18-03-2025,4,308.51
+YouTube,Campaign_8,20,user_238,Omega-3,12-05-2025,5,123.25
+Twitter,Campaign_14,85,user_499,Omega-3,14-05-2025,3,217.39
+YouTube,Campaign_15,27,user_3484,Kids Shake,14-05-2025,1,148.79
+Twitter,Campaign_8,36,user_2784,Protein Powder,02-05-2025,4,216.71
+YouTube,Campaign_19,75,user_1365,Multivitamin,09-02-2025,1,474.98
+Instagram,Campaign_20,16,user_2701,Multivitamin,15-02-2025,5,29.56
+Twitter,Campaign_1,6,user_3107,Protein Powder,25-04-2025,3,388.08
+Instagram,Campaign_18,31,user_520,Protein Powder,09-03-2025,2,193.81
+Instagram,Campaign_7,76,user_1287,Kids Shake,22-05-2025,3,404.62
+YouTube,Campaign_12,17,user_2716,Kids Shake,25-05-2025,5,372
+Twitter,Campaign_1,37,user_296,Protein Powder,07-03-2025,1,260.72
+Twitter,Campaign_16,37,user_347,Multivitamin,08-05-2025,3,31.64
+Instagram,Campaign_8,57,user_277,Omega-3,18-06-2025,4,334.53
+Instagram,Campaign_5,86,user_2212,Protein Powder,30-06-2025,1,262.16
+Instagram,Campaign_14,40,user_166,Protein Powder,03-03-2025,5,461.11
+Instagram,Campaign_4,47,user_4819,Kids Shake,31-05-2025,5,432.47
+Instagram,Campaign_11,84,user_3483,Protein Powder,03-05-2025,3,240.27
+YouTube,Campaign_4,81,user_2165,Kids Shake,14-04-2025,3,226.18
+YouTube,Campaign_8,55,user_3329,Omega-3,18-03-2025,3,455.68
+Twitter,Campaign_18,89,user_4151,Multivitamin,13-04-2025,1,496.71
+Twitter,Campaign_13,85,user_3054,Protein Powder,26-03-2025,2,297.38
+Instagram,Campaign_1,57,user_3256,Multivitamin,27-03-2025,3,248.87
+Twitter,Campaign_4,90,user_2545,Omega-3,13-06-2025,1,65.79
+YouTube,Campaign_6,71,user_1702,Kids Shake,18-02-2025,2,60.27
+YouTube,Campaign_13,27,user_3880,Multivitamin,04-07-2025,4,140.97
+Instagram,Campaign_10,15,user_2768,Multivitamin,10-07-2025,3,350.72
+Instagram,Campaign_20,25,user_3331,Protein Powder,12-05-2025,2,382.42
+YouTube,Campaign_16,69,user_4470,Kids Shake,30-04-2025,2,174.48
+YouTube,Campaign_16,27,user_4215,Protein Powder,23-06-2025,4,355.64
+Instagram,Campaign_13,76,user_1043,Protein Powder,08-06-2025,5,379.11
+Twitter,Campaign_6,22,user_1617,Kids Shake,20-06-2025,1,445.04
+Twitter,Campaign_16,1,user_1399,Kids Shake,14-06-2025,5,220.71
+Instagram,Campaign_1,58,user_2431,Protein Powder,30-03-2025,3,365.57
+YouTube,Campaign_9,17,user_4281,Omega-3,12-02-2025,3,290.63
+Twitter,Campaign_6,68,user_1160,Omega-3,08-03-2025,2,405.35
+Instagram,Campaign_12,87,user_4255,Omega-3,21-03-2025,4,121.1
+Twitter,Campaign_11,38,user_1109,Multivitamin,07-03-2025,4,24.71
+Twitter,Campaign_14,8,user_1469,Multivitamin,21-03-2025,1,496.79
+YouTube,Campaign_1,43,user_2555,Multivitamin,29-05-2025,1,278.11
+YouTube,Campaign_11,55,user_776,Protein Powder,10-02-2025,4,305.34
+YouTube,Campaign_3,55,user_2871,Multivitamin,22-04-2025,1,465.38
+Instagram,Campaign_9,82,user_2329,Kids Shake,20-02-2025,3,196.29
+Instagram,Campaign_13,99,user_2087,Multivitamin,30-06-2025,5,93.16
+Instagram,Campaign_7,92,user_2294,Multivitamin,13-05-2025,5,69.11
+Instagram,Campaign_17,42,user_4812,Kids Shake,26-04-2025,5,390.55
+YouTube,Campaign_19,72,user_4955,Omega-3,12-02-2025,4,120.47
+Twitter,Campaign_1,90,user_1900,Multivitamin,26-06-2025,5,90.32
+Instagram,Campaign_6,99,user_3896,Protein Powder,28-04-2025,1,450.06
+Instagram,Campaign_2,60,user_1123,Kids Shake,02-04-2025,4,177
+Twitter,Campaign_17,18,user_961,Multivitamin,26-02-2025,4,201.11
+YouTube,Campaign_13,69,user_3887,Omega-3,01-05-2025,5,172.15
+Instagram,Campaign_3,58,user_4960,Multivitamin,07-06-2025,3,361.45
+Instagram,Campaign_14,66,user_4592,Kids Shake,16-03-2025,3,348.98
+Instagram,Campaign_18,96,user_3567,Omega-3,04-06-2025,1,435.75
+Twitter,Campaign_15,22,user_2835,Kids Shake,26-05-2025,5,288.7
+Twitter,Campaign_7,90,user_3134,Omega-3,04-06-2025,1,114
+YouTube,Campaign_12,69,user_4310,Multivitamin,18-07-2025,5,168.99
+YouTube,Campaign_4,21,user_3022,Omega-3,13-03-2025,1,311.25
+YouTube,Campaign_2,71,user_2253,Kids Shake,09-04-2025,1,497.95
+Twitter,Campaign_9,22,user_2247,Protein Powder,23-02-2025,1,434.33
+Instagram,Campaign_16,30,user_4978,Kids Shake,16-03-2025,2,247.26
+YouTube,Campaign_18,75,user_852,Protein Powder,16-04-2025,1,314.2
+Twitter,Campaign_5,11,user_1450,Multivitamin,28-06-2025,4,420.35
+Instagram,Campaign_4,50,user_460,Kids Shake,06-02-2025,1,170.83
+YouTube,Campaign_18,12,user_2274,Multivitamin,02-02-2025,5,373.98
+Instagram,Campaign_11,100,user_2593,Multivitamin,19-02-2025,3,267.84
+Instagram,Campaign_13,86,user_3411,Protein Powder,03-07-2025,2,416.02
+Instagram,Campaign_17,42,user_1209,Omega-3,28-06-2025,2,232.83
+Instagram,Campaign_9,92,user_4986,Multivitamin,24-01-2025,5,216.44
+YouTube,Campaign_1,24,user_2550,Omega-3,26-02-2025,3,76.5
+Twitter,Campaign_15,70,user_4655,Protein Powder,25-02-2025,4,62.32
+Instagram,Campaign_3,58,user_1496,Protein Powder,02-06-2025,3,303.75
+Instagram,Campaign_1,96,user_1388,Protein Powder,25-05-2025,3,240.97
+Twitter,Campaign_8,45,user_2522,Multivitamin,16-06-2025,3,45.6
+Instagram,Campaign_10,13,user_1459,Omega-3,14-06-2025,5,171.46
+Twitter,Campaign_8,70,user_1543,Omega-3,29-05-2025,2,490.05
+YouTube,Campaign_9,93,user_3602,Omega-3,26-06-2025,4,190.47
+Twitter,Campaign_12,85,user_2858,Kids Shake,08-02-2025,2,37.63
+Instagram,Campaign_19,30,user_3160,Multivitamin,04-03-2025,5,121.12
+Twitter,Campaign_14,85,user_2842,Omega-3,27-05-2025,3,355.83
+YouTube,Campaign_17,12,user_4519,Omega-3,26-06-2025,5,391.24
+Instagram,Campaign_9,65,user_1788,Kids Shake,14-05-2025,1,462.52
+Instagram,Campaign_17,28,user_1528,Kids Shake,14-06-2025,4,301.67
+Twitter,Campaign_12,56,user_4619,Kids Shake,01-02-2025,5,452.61
+Instagram,Campaign_11,31,user_857,Omega-3,17-07-2025,2,222.28
+Twitter,Campaign_11,5,user_2759,Protein Powder,02-06-2025,3,167.01
+Twitter,Campaign_15,68,user_4480,Multivitamin,14-07-2025,4,408.43
+YouTube,Campaign_15,97,user_4863,Kids Shake,08-04-2025,4,420.37
+Instagram,Campaign_9,65,user_3058,Omega-3,18-03-2025,4,164.08
+Instagram,Campaign_8,92,user_4154,Protein Powder,03-04-2025,4,391.55
+YouTube,Campaign_19,78,user_3283,Protein Powder,08-06-2025,5,99.86
+Twitter,Campaign_10,48,user_4890,Multivitamin,24-02-2025,2,82.35
+YouTube,Campaign_11,95,user_441,Protein Powder,01-05-2025,2,404.72
+Instagram,Campaign_15,99,user_3244,Multivitamin,24-03-2025,1,336.13
+YouTube,Campaign_7,95,user_1410,Omega-3,02-05-2025,1,108.6
+Instagram,Campaign_7,65,user_3577,Protein Powder,18-05-2025,2,348.66
+YouTube,Campaign_12,52,user_41,Kids Shake,09-06-2025,3,67.96
+Twitter,Campaign_18,3,user_3229,Multivitamin,21-03-2025,4,419.05
+YouTube,Campaign_8,83,user_785,Kids Shake,17-06-2025,3,386.26
+Instagram,Campaign_5,42,user_3276,Omega-3,08-05-2025,4,306.53
+Twitter,Campaign_18,80,user_588,Omega-3,16-03-2025,5,32.91
+YouTube,Campaign_20,81,user_1460,Multivitamin,16-04-2025,3,183.13
+YouTube,Campaign_1,93,user_4909,Kids Shake,30-06-2025,2,86.28
+Instagram,Campaign_7,86,user_363,Multivitamin,03-05-2025,4,64.57
+Instagram,Campaign_13,94,user_1474,Kids Shake,11-06-2025,3,169.32
+Twitter,Campaign_16,8,user_286,Omega-3,03-04-2025,2,98.5
+YouTube,Campaign_17,72,user_872,Kids Shake,28-06-2025,3,349.31
+Instagram,Campaign_4,87,user_3314,Protein Powder,08-06-2025,3,81.79
+YouTube,Campaign_17,21,user_3146,Kids Shake,17-07-2025,4,333.83
+YouTube,Campaign_13,52,user_3461,Protein Powder,03-05-2025,4,144.15
+YouTube,Campaign_4,4,user_4945,Kids Shake,13-03-2025,3,394.88
+YouTube,Campaign_11,97,user_4383,Omega-3,21-06-2025,2,490.75
+Instagram,Campaign_18,47,user_3142,Protein Powder,11-06-2025,1,181.82
+Twitter,Campaign_19,2,user_2113,Multivitamin,10-03-2025,5,369.26
+Instagram,Campaign_15,58,user_3563,Protein Powder,23-03-2025,3,39.13
+YouTube,Campaign_16,93,user_3771,Omega-3,07-07-2025,5,349.47
+Instagram,Campaign_9,82,user_3488,Omega-3,28-01-2025,3,388.08
+Instagram,Campaign_1,35,user_4447,Omega-3,04-06-2025,3,191.3
+Twitter,Campaign_1,5,user_3660,Omega-3,04-05-2025,1,305.97
+Twitter,Campaign_12,98,user_300,Kids Shake,17-05-2025,2,60.34
+Instagram,Campaign_4,100,user_1033,Multivitamin,07-02-2025,4,226.93
+Twitter,Campaign_9,7,user_2830,Kids Shake,24-01-2025,5,137.17
+Twitter,Campaign_17,56,user_4662,Kids Shake,09-07-2025,1,176.76
+Instagram,Campaign_2,100,user_1203,Protein Powder,13-04-2025,5,490.53
+YouTube,Campaign_3,52,user_2768,Omega-3,02-04-2025,4,30.74
+Instagram,Campaign_9,88,user_650,Kids Shake,20-06-2025,2,294.03
+Twitter,Campaign_10,89,user_4212,Multivitamin,23-01-2025,1,199.63
+YouTube,Campaign_16,43,user_1763,Kids Shake,10-05-2025,2,152.89
+Instagram,Campaign_2,28,user_4954,Kids Shake,03-06-2025,3,150.89
+YouTube,Campaign_14,29,user_1697,Protein Powder,04-04-2025,2,151.89
+Twitter,Campaign_15,38,user_4908,Omega-3,25-06-2025,2,127.92
+YouTube,Campaign_11,73,user_1811,Protein Powder,13-02-2025,3,369.52
+Twitter,Campaign_20,5,user_3774,Kids Shake,07-02-2025,5,177.8
+YouTube,Campaign_13,83,user_3897,Protein Powder,23-04-2025,3,173.43
+Instagram,Campaign_15,96,user_1244,Kids Shake,14-03-2025,2,275.48
+Twitter,Campaign_6,8,user_3196,Omega-3,07-04-2025,1,337.14
+Instagram,Campaign_19,88,user_644,Kids Shake,26-02-2025,3,59.88
+Twitter,Campaign_17,63,user_3025,Omega-3,06-05-2025,3,236.72
+YouTube,Campaign_15,72,user_243,Multivitamin,10-02-2025,5,100.03
+Instagram,Campaign_12,92,user_4628,Kids Shake,04-04-2025,1,380.67
+Instagram,Campaign_10,49,user_4559,Kids Shake,20-05-2025,4,462.16
+Twitter,Campaign_5,70,user_3101,Protein Powder,25-06-2025,4,124.79
+Instagram,Campaign_4,76,user_4676,Omega-3,04-06-2025,2,388.1
+YouTube,Campaign_13,93,user_4507,Kids Shake,20-04-2025,2,220.73
+Twitter,Campaign_20,36,user_2285,Omega-3,18-04-2025,1,338.83
+YouTube,Campaign_11,29,user_4115,Kids Shake,23-05-2025,4,257.52
+YouTube,Campaign_15,75,user_2346,Kids Shake,09-06-2025,2,212.03
+Instagram,Campaign_1,88,user_4364,Omega-3,23-03-2025,2,348.01
+Twitter,Campaign_4,1,user_3141,Kids Shake,03-04-2025,4,110.66
+Twitter,Campaign_1,70,user_1837,Multivitamin,13-02-2025,5,261.61
+Twitter,Campaign_3,67,user_4912,Kids Shake,14-07-2025,3,312.71
+Instagram,Campaign_6,96,user_4664,Kids Shake,25-01-2025,1,476.89
+Twitter,Campaign_1,98,user_4927,Kids Shake,28-02-2025,5,434.45
+Instagram,Campaign_6,13,user_3751,Omega-3,19-05-2025,2,246.64
+YouTube,Campaign_7,74,user_2644,Multivitamin,05-05-2025,1,449.33
+YouTube,Campaign_7,12,user_4732,Kids Shake,24-03-2025,2,348.16
+YouTube,Campaign_15,78,user_1982,Multivitamin,23-03-2025,5,327.86
+Twitter,Campaign_20,48,user_2714,Multivitamin,18-05-2025,4,366.58
+Instagram,Campaign_3,40,user_57,Protein Powder,26-01-2025,4,436.19
+Instagram,Campaign_16,34,user_3157,Protein Powder,04-04-2025,3,444.01
+Instagram,Campaign_18,82,user_992,Protein Powder,29-03-2025,4,417.32
+YouTube,Campaign_2,69,user_2400,Kids Shake,09-07-2025,3,211.73
+YouTube,Campaign_17,81,user_3605,Kids Shake,18-06-2025,1,90.07
+Twitter,Campaign_9,64,user_4750,Protein Powder,06-06-2025,3,218.19
+YouTube,Campaign_11,81,user_1163,Multivitamin,18-03-2025,2,146.96
+Instagram,Campaign_11,88,user_607,Kids Shake,16-03-2025,2,383.35
+Instagram,Campaign_11,65,user_2420,Kids Shake,26-04-2025,4,355.79
+Instagram,Campaign_19,92,user_2256,Protein Powder,14-06-2025,2,270.45
+Instagram,Campaign_1,65,user_1811,Omega-3,25-02-2025,3,362.63
+Twitter,Campaign_10,79,user_1297,Omega-3,20-03-2025,4,343.17
+YouTube,Campaign_5,97,user_1054,Multivitamin,14-02-2025,3,432.39
+Twitter,Campaign_9,64,user_1868,Protein Powder,26-05-2025,5,165.42
+Instagram,Campaign_19,57,user_99,Omega-3,17-04-2025,5,377.82
+YouTube,Campaign_17,69,user_3325,Kids Shake,11-02-2025,2,486.75
+Twitter,Campaign_5,48,user_4810,Omega-3,08-03-2025,3,201.43
+Instagram,Campaign_16,42,user_1386,Kids Shake,05-06-2025,4,450.62
+Instagram,Campaign_1,42,user_531,Omega-3,23-05-2025,3,119.09
+Instagram,Campaign_5,100,user_2280,Protein Powder,03-02-2025,2,191.12
+Instagram,Campaign_15,76,user_4665,Protein Powder,07-03-2025,2,375.86
+YouTube,Campaign_12,69,user_270,Kids Shake,09-02-2025,1,476.97
+YouTube,Campaign_17,12,user_551,Omega-3,28-02-2025,5,426.37
+Twitter,Campaign_18,33,user_651,Protein Powder,27-03-2025,5,271.02
+Instagram,Campaign_8,25,user_2098,Multivitamin,24-01-2025,2,129.6
+Instagram,Campaign_15,28,user_1454,Protein Powder,14-02-2025,3,284.95
+YouTube,Campaign_3,52,user_1557,Protein Powder,16-06-2025,5,165.33
+Instagram,Campaign_7,99,user_1865,Multivitamin,20-02-2025,5,249.1
+Instagram,Campaign_4,92,user_4399,Protein Powder,29-04-2025,1,114.28
+YouTube,Campaign_4,12,user_3621,Protein Powder,20-03-2025,2,67.94
+YouTube,Campaign_19,21,user_1762,Kids Shake,04-05-2025,5,24.61
+Instagram,Campaign_14,25,user_914,Kids Shake,05-02-2025,2,302.69
+Instagram,Campaign_20,16,user_3738,Protein Powder,16-05-2025,4,308.65
+Twitter,Campaign_16,19,user_1447,Omega-3,12-03-2025,4,266.82
+Instagram,Campaign_10,100,user_2165,Multivitamin,23-04-2025,3,345.36
+Instagram,Campaign_17,92,user_2530,Kids Shake,21-06-2025,2,254.04
+YouTube,Campaign_11,69,user_4175,Kids Shake,15-03-2025,2,105.82
+Twitter,Campaign_14,79,user_2496,Protein Powder,28-03-2025,3,326.18
+Instagram,Campaign_18,34,user_1497,Multivitamin,22-06-2025,2,122.34
+Twitter,Campaign_17,36,user_2502,Omega-3,06-03-2025,4,69.4
+Instagram,Campaign_10,91,user_4994,Multivitamin,23-02-2025,2,175.41
+YouTube,Campaign_7,20,user_3246,Multivitamin,09-06-2025,5,338.04
+Twitter,Campaign_11,3,user_4231,Kids Shake,02-02-2025,5,398.6
+YouTube,Campaign_9,12,user_1874,Omega-3,21-03-2025,3,197.98
+Twitter,Campaign_10,77,user_2734,Omega-3,30-04-2025,4,167.85
+YouTube,Campaign_19,20,user_3224,Kids Shake,18-07-2025,4,46.55
+Twitter,Campaign_14,37,user_2897,Multivitamin,25-03-2025,3,29.35
+YouTube,Campaign_7,97,user_1709,Omega-3,05-05-2025,3,31.37
+Instagram,Campaign_14,13,user_3133,Omega-3,27-02-2025,5,374.73
+Instagram,Campaign_7,42,user_4121,Kids Shake,10-05-2025,1,55.72
+Instagram,Campaign_6,25,user_2667,Kids Shake,18-02-2025,4,476.98
+Twitter,Campaign_2,63,user_3196,Kids Shake,17-05-2025,3,493.73
+Instagram,Campaign_19,10,user_3073,Protein Powder,24-06-2025,1,327.02
+Twitter,Campaign_9,23,user_4407,Omega-3,29-03-2025,3,73.29
+Instagram,Campaign_5,76,user_607,Omega-3,05-04-2025,2,439.5
+Instagram,Campaign_19,57,user_2449,Multivitamin,26-02-2025,1,230.37
+Instagram,Campaign_11,50,user_4692,Omega-3,27-02-2025,5,412.31
+Instagram,Campaign_1,88,user_1151,Protein Powder,21-01-2025,3,479.46
+Instagram,Campaign_12,16,user_3653,Multivitamin,02-06-2025,3,244.8
+Instagram,Campaign_15,57,user_2968,Omega-3,30-05-2025,3,142.57
+Twitter,Campaign_1,63,user_1150,Protein Powder,05-02-2025,4,225.12
+Instagram,Campaign_16,15,user_394,Protein Powder,10-03-2025,3,27.78
+YouTube,Campaign_14,44,user_263,Omega-3,04-03-2025,4,155.67
+Instagram,Campaign_11,96,user_550,Protein Powder,25-02-2025,1,487.63
+Instagram,Campaign_4,26,user_4357,Multivitamin,10-03-2025,1,295.48
+YouTube,Campaign_15,97,user_4998,Multivitamin,01-07-2025,4,412.52
+YouTube,Campaign_15,21,user_3697,Multivitamin,03-02-2025,3,55.05
+Instagram,Campaign_19,34,user_2784,Kids Shake,06-03-2025,4,446.91
+Twitter,Campaign_13,33,user_4709,Omega-3,18-07-2025,5,417.55
+Twitter,Campaign_1,68,user_70,Multivitamin,28-04-2025,4,92.24
+Instagram,Campaign_8,47,user_4788,Omega-3,05-03-2025,4,333.73
+Instagram,Campaign_7,59,user_4706,Omega-3,22-02-2025,2,110.65
+Twitter,Campaign_5,68,user_1689,Omega-3,03-06-2025,1,32.59
+YouTube,Campaign_20,71,user_324,Multivitamin,03-03-2025,3,478.24
+Instagram,Campaign_11,40,user_2584,Multivitamin,01-02-2025,2,116.82
+Twitter,Campaign_6,90,user_3476,Omega-3,21-05-2025,2,390.73
+Instagram,Campaign_1,94,user_1125,Kids Shake,18-06-2025,4,32.2
+Instagram,Campaign_7,57,user_3117,Protein Powder,27-03-2025,4,211.61
+Instagram,Campaign_7,16,user_3118,Protein Powder,26-06-2025,2,263.22
+YouTube,Campaign_19,71,user_4232,Protein Powder,08-06-2025,2,77.77
+Twitter,Campaign_16,33,user_4955,Omega-3,29-04-2025,4,111.67
+YouTube,Campaign_3,24,user_4153,Omega-3,19-03-2025,3,264.19
+YouTube,Campaign_15,4,user_133,Protein Powder,13-04-2025,4,212.15
+Instagram,Campaign_4,86,user_2906,Omega-3,01-05-2025,1,228.39
+Twitter,Campaign_10,19,user_1879,Protein Powder,03-02-2025,4,440.45
+Instagram,Campaign_1,66,user_2251,Omega-3,08-07-2025,2,426.76
+Twitter,Campaign_6,14,user_4626,Protein Powder,17-06-2025,5,94.76
+Instagram,Campaign_16,92,user_320,Protein Powder,17-02-2025,2,435.85
+YouTube,Campaign_10,17,user_3045,Kids Shake,09-06-2025,4,102.76
+Twitter,Campaign_17,36,user_1241,Multivitamin,17-04-2025,1,397.55
+YouTube,Campaign_1,61,user_4076,Multivitamin,02-05-2025,4,320.15
+YouTube,Campaign_9,4,user_2631,Protein Powder,13-07-2025,3,33.68
+Instagram,Campaign_16,13,user_281,Multivitamin,06-04-2025,1,278.95
+Twitter,Campaign_20,64,user_4303,Multivitamin,09-06-2025,1,27.17
+YouTube,Campaign_8,61,user_755,Kids Shake,03-07-2025,1,484.99
+Twitter,Campaign_15,36,user_3401,Kids Shake,15-06-2025,5,408.52
+Twitter,Campaign_1,33,user_2552,Kids Shake,21-03-2025,3,81.54
+Twitter,Campaign_18,1,user_2995,Protein Powder,19-03-2025,4,379.39
+YouTube,Campaign_19,55,user_1608,Multivitamin,24-05-2025,5,82.31
+Twitter,Campaign_5,23,user_1848,Protein Powder,25-06-2025,4,155.5
+Instagram,Campaign_20,99,user_863,Multivitamin,23-05-2025,3,108.62
+Twitter,Campaign_10,11,user_2693,Kids Shake,29-01-2025,5,269.56
+Instagram,Campaign_19,28,user_2186,Multivitamin,27-04-2025,4,199.89
+YouTube,Campaign_5,24,user_4747,Protein Powder,12-04-2025,1,401.21
+Twitter,Campaign_6,7,user_118,Multivitamin,07-02-2025,1,420.98
+YouTube,Campaign_8,21,user_1327,Kids Shake,28-04-2025,1,294.6
+Twitter,Campaign_16,14,user_2818,Multivitamin,09-02-2025,5,214.72
+Twitter,Campaign_7,89,user_3713,Omega-3,02-03-2025,4,76.55
+Twitter,Campaign_9,22,user_4215,Omega-3,24-04-2025,2,142.54
+Twitter,Campaign_16,64,user_4497,Kids Shake,31-01-2025,1,340.65
+Twitter,Campaign_11,1,user_4253,Omega-3,03-07-2025,3,224.73
+Instagram,Campaign_1,49,user_4451,Multivitamin,25-06-2025,2,488.04
+Twitter,Campaign_4,85,user_986,Omega-3,17-06-2025,3,167.37
+Instagram,Campaign_14,86,user_4533,Protein Powder,12-03-2025,2,210.83
+Twitter,Campaign_17,33,user_1597,Multivitamin,26-01-2025,2,392.44
+YouTube,Campaign_7,12,user_2900,Multivitamin,25-02-2025,5,272.02
+Twitter,Campaign_18,33,user_2971,Multivitamin,23-01-2025,5,100.04
+Instagram,Campaign_6,65,user_821,Multivitamin,07-02-2025,5,128.6
+Instagram,Campaign_5,26,user_4431,Kids Shake,29-05-2025,3,43.48
+Instagram,Campaign_13,88,user_2429,Kids Shake,08-03-2025,4,449
+Twitter,Campaign_15,37,user_2638,Multivitamin,04-05-2025,1,55.94
+Instagram,Campaign_18,58,user_2553,Multivitamin,13-02-2025,5,480.45
+Instagram,Campaign_2,99,user_3362,Multivitamin,13-06-2025,4,414.77
+YouTube,Campaign_8,27,user_3206,Multivitamin,04-02-2025,4,207.68
+Instagram,Campaign_7,42,user_2037,Omega-3,01-07-2025,2,482.41
+Instagram,Campaign_9,62,user_1151,Kids Shake,18-06-2025,5,473.28
+Twitter,Campaign_5,11,user_1687,Kids Shake,13-06-2025,3,385.08
+Instagram,Campaign_1,100,user_961,Omega-3,07-03-2025,1,390.4
+Instagram,Campaign_20,42,user_3860,Multivitamin,31-01-2025,4,163.43
+Instagram,Campaign_4,25,user_4434,Kids Shake,10-06-2025,1,442.51
+Instagram,Campaign_11,47,user_2230,Protein Powder,13-04-2025,3,74.16
+YouTube,Campaign_15,4,user_3490,Multivitamin,23-01-2025,4,384.06
+YouTube,Campaign_8,12,user_4284,Protein Powder,27-06-2025,5,480.67
+YouTube,Campaign_12,51,user_1977,Kids Shake,21-01-2025,4,222.4
+Twitter,Campaign_4,36,user_2296,Omega-3,16-05-2025,5,177.84
+YouTube,Campaign_9,61,user_2922,Protein Powder,16-07-2025,1,362.29
+Twitter,Campaign_16,1,user_1989,Kids Shake,24-05-2025,5,228.21
+YouTube,Campaign_9,83,user_852,Kids Shake,26-02-2025,5,421.96
+Twitter,Campaign_13,14,user_4970,Kids Shake,09-07-2025,5,71.74
+YouTube,Campaign_4,69,user_4716,Protein Powder,19-06-2025,2,193.14
+Twitter,Campaign_20,36,user_3456,Kids Shake,09-07-2025,3,330.6
+Instagram,Campaign_15,47,user_3775,Protein Powder,08-04-2025,4,341.15
+Instagram,Campaign_1,15,user_1770,Multivitamin,13-07-2025,3,67.43
+Instagram,Campaign_14,13,user_233,Kids Shake,16-05-2025,3,412.82
+Instagram,Campaign_12,34,user_2887,Multivitamin,10-05-2025,4,396.18
+Instagram,Campaign_11,59,user_3754,Omega-3,08-06-2025,2,288.07
+Instagram,Campaign_18,28,user_2637,Kids Shake,21-04-2025,2,425.47
+Twitter,Campaign_3,80,user_2735,Omega-3,12-02-2025,5,375.13
+YouTube,Campaign_8,83,user_2594,Omega-3,24-06-2025,1,326.94
+YouTube,Campaign_11,20,user_4074,Multivitamin,13-04-2025,2,147.05
+Twitter,Campaign_16,8,user_2873,Omega-3,29-03-2025,3,382.29
+Twitter,Campaign_6,98,user_2645,Protein Powder,21-06-2025,2,299.29
+Twitter,Campaign_17,63,user_4592,Omega-3,26-02-2025,5,105.4
+Instagram,Campaign_20,66,user_623,Multivitamin,26-06-2025,1,361.6
+Twitter,Campaign_13,64,user_2158,Multivitamin,23-04-2025,5,189.82
+YouTube,Campaign_5,52,user_3156,Protein Powder,05-05-2025,5,293.65
+YouTube,Campaign_3,39,user_2653,Multivitamin,28-03-2025,1,138.03
+YouTube,Campaign_5,93,user_2243,Protein Powder,15-03-2025,2,419.96
+YouTube,Campaign_8,74,user_2010,Multivitamin,29-03-2025,2,89.78
+Instagram,Campaign_10,87,user_1997,Protein Powder,13-02-2025,4,422.21
+YouTube,Campaign_14,73,user_4558,Multivitamin,05-04-2025,2,426.99
+Twitter,Campaign_19,56,user_3274,Kids Shake,14-05-2025,3,405.64
+Instagram,Campaign_9,40,user_3534,Omega-3,17-04-2025,2,173.67
+YouTube,Campaign_12,52,user_632,Multivitamin,28-04-2025,2,401.87
+Instagram,Campaign_19,65,user_1055,Protein Powder,12-03-2025,4,276.97
+Twitter,Campaign_4,7,user_4949,Multivitamin,21-04-2025,5,414.12
+Instagram,Campaign_8,42,user_3812,Omega-3,22-02-2025,1,240.91
+Instagram,Campaign_15,82,user_4073,Kids Shake,03-07-2025,2,30.62
+Twitter,Campaign_15,7,user_4580,Protein Powder,22-04-2025,4,436.44
+Twitter,Campaign_5,80,user_523,Omega-3,03-07-2025,3,293.48
+YouTube,Campaign_1,44,user_4897,Kids Shake,31-03-2025,2,493.38
+Instagram,Campaign_7,92,user_3704,Omega-3,04-03-2025,3,178.66
+Instagram,Campaign_19,92,user_4162,Kids Shake,13-06-2025,5,490.49
+YouTube,Campaign_19,44,user_2577,Protein Powder,13-02-2025,1,361.81
+YouTube,Campaign_12,4,user_4813,Protein Powder,01-07-2025,5,50.54
+Instagram,Campaign_14,88,user_1321,Multivitamin,17-05-2025,5,391.39
+Twitter,Campaign_6,36,user_1485,Protein Powder,03-02-2025,4,369.76
+Twitter,Campaign_11,77,user_730,Protein Powder,07-04-2025,5,356.45
+Twitter,Campaign_13,36,user_3339,Kids Shake,22-01-2025,4,86.48
+Twitter,Campaign_11,45,user_1500,Protein Powder,01-05-2025,3,105.16
+Twitter,Campaign_14,14,user_2065,Kids Shake,26-06-2025,2,145.04
+YouTube,Campaign_7,52,user_1857,Omega-3,04-02-2025,1,183.07
+Instagram,Campaign_4,88,user_4292,Omega-3,14-07-2025,5,49.23
+Twitter,Campaign_18,68,user_485,Omega-3,25-06-2025,2,20.83
+Instagram,Campaign_17,26,user_104,Protein Powder,27-04-2025,4,167.01
+Twitter,Campaign_19,70,user_4616,Omega-3,02-07-2025,2,110.47
+Twitter,Campaign_20,56,user_4082,Multivitamin,04-03-2025,2,488.37
+Twitter,Campaign_4,2,user_1268,Omega-3,23-02-2025,2,447.89
+Instagram,Campaign_6,28,user_4157,Multivitamin,28-03-2025,1,318.6
+Twitter,Campaign_18,45,user_986,Omega-3,06-05-2025,1,187.55
+Twitter,Campaign_6,14,user_4835,Multivitamin,24-06-2025,4,112.72
+Instagram,Campaign_5,10,user_2764,Kids Shake,01-02-2025,5,419.25
+Twitter,Campaign_15,48,user_954,Protein Powder,24-04-2025,2,195.53
+Instagram,Campaign_8,28,user_4021,Multivitamin,07-04-2025,1,191.99
+Instagram,Campaign_16,60,user_4843,Protein Powder,08-03-2025,1,338.49
+YouTube,Campaign_11,46,user_4320,Kids Shake,02-03-2025,2,155.63
+YouTube,Campaign_5,12,user_3670,Multivitamin,06-05-2025,4,214.03
+Twitter,Campaign_13,37,user_675,Kids Shake,13-07-2025,4,70.07
+Twitter,Campaign_18,1,user_3966,Kids Shake,02-05-2025,4,496.3
+Twitter,Campaign_10,23,user_452,Protein Powder,01-06-2025,1,167.42
+Instagram,Campaign_19,49,user_4680,Multivitamin,05-02-2025,3,374.84
+YouTube,Campaign_18,81,user_230,Protein Powder,03-05-2025,4,110.35
+YouTube,Campaign_18,24,user_430,Kids Shake,11-03-2025,5,427.63
+Twitter,Campaign_17,18,user_3038,Protein Powder,26-05-2025,1,239.47
+Twitter,Campaign_6,80,user_1816,Omega-3,01-07-2025,2,257.73
+Instagram,Campaign_19,15,user_128,Protein Powder,13-04-2025,2,452.15
+Instagram,Campaign_4,82,user_2380,Protein Powder,19-05-2025,3,492.51
+Twitter,Campaign_13,68,user_1871,Omega-3,08-04-2025,1,94.85
+Instagram,Campaign_20,96,user_2017,Omega-3,02-04-2025,5,360.88
+Twitter,Campaign_10,45,user_1679,Omega-3,06-04-2025,1,219.63
+Twitter,Campaign_14,63,user_3090,Omega-3,01-06-2025,4,141.64
+YouTube,Campaign_1,24,user_3240,Protein Powder,22-01-2025,4,81.87
+Twitter,Campaign_8,8,user_578,Protein Powder,20-06-2025,2,453.06
+Twitter,Campaign_16,3,user_545,Multivitamin,04-03-2025,3,100.34
+YouTube,Campaign_9,97,user_3263,Omega-3,04-03-2025,3,156.66
+Instagram,Campaign_19,91,user_2143,Protein Powder,19-06-2025,4,414.98
+Twitter,Campaign_7,45,user_709,Kids Shake,29-05-2025,2,268.75
+Instagram,Campaign_2,96,user_3842,Kids Shake,22-06-2025,1,129.75
+YouTube,Campaign_13,69,user_1512,Protein Powder,23-01-2025,1,136.04
+YouTube,Campaign_20,72,user_3039,Kids Shake,13-06-2025,4,306.56
+Twitter,Campaign_2,80,user_4126,Multivitamin,27-05-2025,3,41
+Instagram,Campaign_1,86,user_1252,Omega-3,16-05-2025,2,188.06
+Instagram,Campaign_7,86,user_463,Kids Shake,13-04-2025,2,474.47
+Instagram,Campaign_17,50,user_522,Multivitamin,02-06-2025,2,181.23
+Instagram,Campaign_15,40,user_208,Kids Shake,02-07-2025,2,308.8
+Instagram,Campaign_10,94,user_4562,Multivitamin,13-06-2025,5,482.8
+Twitter,Campaign_2,45,user_913,Protein Powder,06-04-2025,5,276.45
+Twitter,Campaign_20,23,user_1392,Omega-3,16-04-2025,1,88.87
+Instagram,Campaign_4,10,user_1915,Protein Powder,13-04-2025,1,290.1
+Twitter,Campaign_13,33,user_4645,Protein Powder,23-05-2025,1,290.55
+Instagram,Campaign_3,58,user_163,Kids Shake,23-02-2025,4,155.58
+Twitter,Campaign_20,1,user_3169,Kids Shake,20-05-2025,4,314.05
+Instagram,Campaign_12,10,user_3728,Kids Shake,10-06-2025,4,277.5
+Twitter,Campaign_12,77,user_1834,Multivitamin,07-05-2025,2,482.26
+Instagram,Campaign_13,50,user_2108,Multivitamin,16-04-2025,1,227.23
+Instagram,Campaign_10,65,user_1180,Protein Powder,24-03-2025,4,361.13
+Instagram,Campaign_18,10,user_1860,Kids Shake,17-06-2025,3,119.89
+YouTube,Campaign_13,4,user_3450,Kids Shake,24-03-2025,4,233.07
+Instagram,Campaign_13,31,user_3798,Omega-3,24-04-2025,3,339.38
+YouTube,Campaign_5,73,user_4342,Multivitamin,18-05-2025,2,362.04
+YouTube,Campaign_19,53,user_1595,Omega-3,23-03-2025,5,433.97
+Twitter,Campaign_14,80,user_3071,Omega-3,26-05-2025,4,87.84
+YouTube,Campaign_4,21,user_4447,Kids Shake,04-05-2025,5,217.82
+Instagram,Campaign_7,91,user_1780,Omega-3,28-02-2025,2,336.63
+YouTube,Campaign_17,20,user_3538,Multivitamin,28-03-2025,1,353.11
+YouTube,Campaign_13,39,user_4649,Multivitamin,11-05-2025,5,389.24
+Instagram,Campaign_13,88,user_4711,Multivitamin,11-06-2025,4,171.92
+Twitter,Campaign_8,1,user_1070,Kids Shake,30-04-2025,5,467.85
+Instagram,Campaign_20,35,user_4347,Protein Powder,27-01-2025,1,397.74
+Twitter,Campaign_3,1,user_176,Protein Powder,06-07-2025,3,429.25
+YouTube,Campaign_11,72,user_2923,Multivitamin,11-06-2025,2,167.63
+Instagram,Campaign_3,65,user_2974,Omega-3,20-02-2025,4,248.04
+Twitter,Campaign_6,5,user_2374,Omega-3,24-06-2025,5,96.71
+YouTube,Campaign_5,69,user_1338,Kids Shake,19-06-2025,5,456.91
+Twitter,Campaign_14,5,user_1297,Kids Shake,21-01-2025,3,351.18
+Twitter,Campaign_8,33,user_929,Multivitamin,28-03-2025,1,382.72
+Twitter,Campaign_5,70,user_3121,Kids Shake,13-04-2025,4,101.82
+YouTube,Campaign_1,24,user_4802,Omega-3,29-03-2025,5,294.52
+Instagram,Campaign_15,9,user_163,Kids Shake,29-01-2025,5,185.04
+Instagram,Campaign_11,88,user_697,Omega-3,02-07-2025,2,84.77
+YouTube,Campaign_10,74,user_3225,Multivitamin,21-06-2025,2,481.56
+Instagram,Campaign_11,99,user_2395,Protein Powder,20-04-2025,5,492.11
+Twitter,Campaign_16,67,user_131,Kids Shake,06-06-2025,3,428.6
+Instagram,Campaign_7,86,user_4206,Omega-3,08-03-2025,1,255.01
+Twitter,Campaign_6,33,user_427,Multivitamin,21-01-2025,3,146.29
+Instagram,Campaign_14,60,user_2765,Protein Powder,11-05-2025,4,336.52
+Instagram,Campaign_11,47,user_4517,Protein Powder,16-06-2025,5,25.13
+Instagram,Campaign_19,50,user_158,Omega-3,13-04-2025,2,454.18
+Twitter,Campaign_13,38,user_3182,Protein Powder,23-01-2025,3,354.49
+YouTube,Campaign_11,53,user_3005,Kids Shake,06-04-2025,3,83.52
+Twitter,Campaign_12,98,user_2143,Multivitamin,16-03-2025,3,148
+YouTube,Campaign_15,24,user_695,Omega-3,11-03-2025,1,31.04
+Instagram,Campaign_5,86,user_877,Multivitamin,30-06-2025,2,199.23
+YouTube,Campaign_5,75,user_4686,Multivitamin,27-06-2025,1,24.63
+Instagram,Campaign_1,10,user_2795,Protein Powder,10-06-2025,5,320.54
+Twitter,Campaign_15,38,user_2711,Protein Powder,13-02-2025,1,46.96
+YouTube,Campaign_5,44,user_1635,Protein Powder,02-06-2025,1,364.76
+YouTube,Campaign_3,55,user_32,Kids Shake,25-01-2025,2,120.91
+Twitter,Campaign_3,33,user_3170,Omega-3,09-02-2025,5,112.47
+Instagram,Campaign_7,99,user_4058,Multivitamin,21-03-2025,3,371.15
+YouTube,Campaign_19,52,user_502,Kids Shake,02-06-2025,5,23.03
+YouTube,Campaign_6,53,user_1620,Omega-3,13-06-2025,5,296.21
+Instagram,Campaign_7,9,user_1016,Protein Powder,01-06-2025,2,427.34
+YouTube,Campaign_8,27,user_1331,Kids Shake,07-02-2025,5,162.43
+Twitter,Campaign_14,11,user_4151,Omega-3,25-05-2025,4,140.46
+Twitter,Campaign_12,19,user_1973,Protein Powder,02-02-2025,3,155.1
+Instagram,Campaign_6,30,user_530,Protein Powder,03-07-2025,4,185.23
+Twitter,Campaign_2,6,user_3524,Protein Powder,28-01-2025,4,25.76
+YouTube,Campaign_3,74,user_2609,Omega-3,22-01-2025,5,345.53
+YouTube,Campaign_3,39,user_4663,Omega-3,29-04-2025,4,191.89
+Instagram,Campaign_16,30,user_3035,Kids Shake,04-05-2025,4,170.47
+YouTube,Campaign_7,72,user_1869,Multivitamin,09-07-2025,3,216.67
+Instagram,Campaign_15,92,user_2658,Kids Shake,23-03-2025,4,237.04
+Twitter,Campaign_5,98,user_3159,Kids Shake,13-07-2025,2,398.37
+YouTube,Campaign_13,93,user_1224,Kids Shake,17-04-2025,1,228.5
+Twitter,Campaign_6,3,user_1238,Multivitamin,25-05-2025,1,27.87
+Instagram,Campaign_16,94,user_1228,Omega-3,24-04-2025,2,30.41
+Instagram,Campaign_13,92,user_1297,Omega-3,01-03-2025,3,129.31
+YouTube,Campaign_16,74,user_4972,Kids Shake,31-03-2025,4,474.72
+YouTube,Campaign_6,4,user_3993,Protein Powder,20-04-2025,1,52.11
+Twitter,Campaign_11,80,user_3906,Omega-3,13-06-2025,2,269.01
+YouTube,Campaign_16,46,user_1773,Kids Shake,16-03-2025,1,479.29
+Instagram,Campaign_6,31,user_2774,Omega-3,25-01-2025,5,225.92
+Instagram,Campaign_4,13,user_4908,Multivitamin,06-03-2025,3,183.73
+Instagram,Campaign_12,76,user_1050,Omega-3,25-02-2025,4,50.3
+YouTube,Campaign_15,17,user_3032,Kids Shake,17-05-2025,2,473.4
+Twitter,Campaign_8,77,user_2561,Kids Shake,09-05-2025,5,183.56
+Instagram,Campaign_11,50,user_1593,Multivitamin,28-04-2025,5,486.15
+YouTube,Campaign_8,81,user_4857,Multivitamin,17-05-2025,4,290.38
+Instagram,Campaign_1,91,user_2568,Protein Powder,12-04-2025,2,319.33
+YouTube,Campaign_3,61,user_4336,Kids Shake,23-03-2025,5,452.21
+Instagram,Campaign_9,94,user_549,Kids Shake,11-04-2025,2,399.82
+Twitter,Campaign_9,38,user_1173,Omega-3,04-07-2025,4,138.36
+Twitter,Campaign_1,23,user_2681,Omega-3,11-02-2025,4,289.7
+YouTube,Campaign_9,54,user_2622,Kids Shake,30-04-2025,5,443.94
+Instagram,Campaign_7,62,user_1542,Protein Powder,05-05-2025,1,373.04
+Instagram,Campaign_7,49,user_4289,Omega-3,17-05-2025,4,223.04
